@@ -1,0 +1,949 @@
+,Date,ID,Losses,Match Wins,Meta % (Leagues),My Deck,Opp Category,Opp Deck,Rolling Average,Tot. Matches,Tournament,Wins,Match Losses,Lands Macrotype
+0,,1.0,2,0,1%,RG Lands,Combo-Control,Food Chain,,1.0,,0,1,RG Lands
+1,,2.0,0,1,18%,Jund Lands,Brew/Other,BR Prison,,12.0,,2,0,Jund Lands
+2,6/25,3.0,0,1,6%,RG Lands,White Creatures,Death & Taxes,,4.0,Practice,2,0,RG Lands
+3,6/25,4.0,2,0,15%,RG Lands,Delver,RUG Delver,,10.0,Tournament,1,1,RG Lands
+4,6/25,5.0,1,1,18%,RG Lands,Brew/Other,Bant Untap,,12.0,Practice,2,0,RG Lands
+5,6/27,6.0,1,1,3%,RG Lands,Doomsday,Doomsday,,2.0,Tournament,2,0,RG Lands
+6,6/27,7.0,2,0,6%,RG Lands,White Creatures,Esper Vial,,4.0,Tournament,0,1,RG Lands
+7,7/2,8.0,1,1,18%,RG Lands,Brew/Other,Yorion Cat,,12.0,Tournament,2,0,RG Lands
+8,7/7,9.0,0,1,16%,RG Lands,Tribal,Goblins,,11.0,Tournament,2,0,RG Lands
+9,7/9,10.0,0,1,3%,RG Lands,Infect,Infect,70%,2.0,Tournament,2,0,RG Lands
+10,7/9,11.0,0,1,16%,Jund Lands,Tribal,Elves,80%,11.0,League,2,0,Jund Lands
+11,7/9,12.0,1,1,16%,Jund Lands,Tribal,Elves,80%,11.0,League,2,0,Jund Lands
+12,7/9,13.0,0,1,16%,Jund Lands,Tribal,Goblins,80%,11.0,League,2,0,Jund Lands
+13,7/9,14.0,0,1,15%,Jund Lands,Delver,UR Delver,90%,10.0,League,2,0,Jund Lands
+14,7/9,15.0,1,1,6%,Jund Lands,White Creatures,W Eldrazi,90%,4.0,League,2,0,Jund Lands
+15,7/10,16.0,2,0,3%,Jund Lands,Show & Tell,Sneak & Show,80%,2.0,Practice,0,1,Jund Lands
+16,7/13,17.0,1,1,16%,Jund Lands,Tribal,Elves,90%,11.0,Weekly,2,0,Jund Lands
+17,7/13,18.0,0,1,3%,Jund Lands,Infect,Infect,90%,2.0,Weekly,2,0,Jund Lands
+18,7/13,19.0,0,1,16%,Jund Lands,Tribal,Goblins,90%,11.0,Weekly,2,0,Jund Lands
+19,7/16,20.0,2,0,7%,Jund Lands,Storm,ANT,80%,5.0,League,1,1,Jund Lands
+20,7/16,21.0,2,0,7%,Jund Lands,Storm,TES,70%,5.0,League,0,1,Jund Lands
+21,7/16,22.0,2,0,7%,Jund Lands,Chalice,Urza,60%,5.0,League,0,1,Jund Lands
+22,7/16,23.0,1,1,16%,Jund Lands,Tribal,Elves,60%,11.0,League,2,0,Jund Lands
+23,7/16,24.0,0,1,7%,Jund Lands,Chalice,Urza,60%,5.0,League,2,0,Jund Lands
+24,7/18,25.0,2,0,7%,Jund Lands,Storm,TES,50%,5.0,Tournament,1,1,Jund Lands
+25,7/18,26.0,0,1,15%,Jund Lands,Delver,RUG Delver,60%,10.0,Tournament,2,0,Jund Lands
+26,7/18,27.0,0,1,1%,Jund Lands,Graveyard,BR Reanimator,60%,1.0,Tournament,2,0,Jund Lands
+27,7/18,28.0,0,1,1%,Jund Lands,Nic Fit,Nic Fit,60%,1.0,Tournament,2,0,Jund Lands
+28,7/18,29.0,2,0,18%,Jund Lands,Brew/Other,Bant NO,50%,12.0,Tournament,1,1,Jund Lands
+29,7/18,30.0,1,1,7%,Jund Lands,Chalice,Eldrazi Stompy,60%,5.0,Tournament,2,0,Jund Lands
+30,7/20/2020,31.0,0,1,16%,Jund Lands,Tribal,Humans,70%,11.0,Weekly,2,0,Jund Lands
+31,7/20/2020,32.0,1,1,15%,Jund Lands,Delver,Grixis Delver,80%,10.0,Weekly,2,0,Jund Lands
+32,7/20/2020,33.0,2,0,18%,Jund Lands,Brew/Other,Dryad Stompy,70%,12.0,Weekly,0,1,Jund Lands
+33,7/28/2020,34.0,1,1,18%,Jund Lands,Brew/Other,4c Ninjas,70%,12.0,Practice,2,0,Jund Lands
+34,7/31/2020,35.0,1,1,7%,Jund Lands,Storm,TES,80%,5.0,League,2,0,Jund Lands
+35,7/31/2020,36.0,1,1,16%,Jund Lands,Tribal,Goblins,80%,11.0,League,2,0,Jund Lands
+36,7/31/2020,37.0,1,1,18%,Jund Lands,Brew/Other,Restore Balance,80%,12.0,League,2,0,Jund Lands
+37,7/31/2020,38.0,0,1,7%,Jund Lands,3-4c Control,4c Control,80%,5.0,League,2,0,Jund Lands
+38,7/31/2020,39.0,1,1,7%,Jund Lands,Chalice,Urza,90%,5.0,League,2,0,Jund Lands
+39,8/1/2020,40.0,0,1,7%,Jund Lands,3-4c Control,BUG Control,90%,5.0,Weekly,2,0,Jund Lands
+40,8/1/2020,41.0,1,1,3%,Jund Lands,UW,UWx Stoneblade,90%,2.0,Weekly,2,0,Jund Lands
+41,8/1/2020,42.0,1,1,16%,Jund Lands,Tribal,Humans,90%,11.0,Weekly,2,0,Jund Lands
+42,8/6/2020,43.0,0,1,7%,Jund Lands,3-4c Control,Astrolabe Control,100%,5.0,Practice,2,0,Jund Lands
+43,8/7/2020,44.0,2,0,7%,Jund Lands,Chalice,Urza,90%,5.0,League,1,1,Jund Lands
+44,8/7/2020,45.0,2,0,3%,Jund Lands,Show & Tell,Sneak & Show,80%,2.0,League,0,1,Jund Lands
+45,8/7/2020,46.0,2,0,7%,Jund Lands,Storm,Belcher,70%,5.0,League,1,1,Jund Lands
+46,8/7/2020,47.0,2,0,7%,Jund Lands,3-4c Control,Stryfo Pile,60%,5.0,League,0,1,Jund Lands
+47,8/7/2020,48.0,0,1,18%,Jund Lands,Brew/Other,Eggs,60%,12.0,League,2,0,Jund Lands
+48,8/10/2020,49.0,1,1,7%,Jund Lands,3-4c Control,BUG Control,60%,5.0,Weekly,2,0,Jund Lands
+49,8/10/2020,50.0,0,1,3%,Jund Lands,Burn,Burn,60%,2.0,Weekly,2,0,Jund Lands
+50,8/10/2020,51.0,1,1,18%,Jund Lands,Brew/Other,Ninjas,60%,12.0,Weekly,2,0,Jund Lands
+51,8/11/2020,52.0,2,0,15%,Jund Lands,Delver,RUG Delver,50%,10.0,League,1,1,Jund Lands
+52,8/11/2020,53.0,0,1,15%,Jund Lands,Delver,Grixis Delver,50%,10.0,League,2,0,Jund Lands
+53,8/11/2020,54.0,1,1,18%,Jund Lands,Brew/Other,Deadguy Ale,60%,12.0,League,2,0,Jund Lands
+54,8/11/2020,55.0,2,0,15%,Jund Lands,Delver,RUG Delver,60%,10.0,League,1,1,Jund Lands
+55,8/11/2020,56.0,2,0,3%,Jund Lands,Burn,Burn,60%,2.0,League,0,1,Jund Lands
+56,8/16/2020,57.0,1,1,3%,Jund Lands,Dark Depths,Turbo Depths,70%,2.0,Tournament,2,0,Jund Lands
+57,8/16/2020,58.0,1,1,1%,Jund Lands,Big Mana,Colorless Cloudpost,70%,1.0,Tournament,2,0,Jund Lands
+58,8/16/2020,59.0,0,1,6%,Jund Lands,White Creatures,Esper Vial,70%,4.0,Tournament,2,0,Jund Lands
+59,8/16/2020,60.0,0,1,15%,Jund Lands,Delver,RUG Delver,70%,10.0,Tournament,2,0,Jund Lands
+60,8/16/2020,61.0,2,0,15%,Jund Lands,Delver,RUG Delver,60%,10.0,Tournament,0,1,Jund Lands
+61,8/16/2020,62.0,2,0,3%,Jund Lands,Dark Depths,Slow Depths,60%,2.0,Tournament,0,1,Jund Lands
+62,8/16/2020,63.0,2,0,3%,Jund Lands,Doomsday,Doomsday,50%,2.0,Tournament,0,1,Jund Lands
+63,8/17/2020,64.0,2,0,15%,Jund Lands,Delver,UR Delver,40%,10.0,Weekly,1,1,Jund Lands
+64,8/17/2020,65.0,0,1,3%,Jund Lands,UW,UWx Stoneblade,50%,2.0,Weekly,2,0,Jund Lands
+65,8/17/2020,66.0,2,0,18%,Jund Lands,Brew/Other,GW Depths,50%,12.0,Weekly,1,1,Jund Lands
+66,8/24/2020,67.0,2,0,18%,Jund Lands,Brew/Other,GW Depths,40%,12.0,Weekly,0,1,Jund Lands
+67,8/24/2020,68.0,1,1,16%,Jund Lands,Tribal,Goblins,40%,11.0,Weekly,2,0,Jund Lands
+68,2/4/2020,1.0,0,1,4%,BUG Lands,Show & Tell,Sneak & Show,,21.0,League,2,0,BUG Lands
+69,2/4/2020,2.0,1,1,3%,BUG Lands,Big Mana,G Cloudpost,,17.0,League,2,0,BUG Lands
+70,2/4/2020,3.0,1,1,16%,BUG Lands,Delver,Grixis Delver,,83.0,League,2,0,BUG Lands
+71,2/4/2020,4.0,2,0,1%,BUG Lands,Combo-Control,Splinter Twin,,4.0,League,1,1,BUG Lands
+72,2/4/2020,5.0,1,1,4%,BUG Lands,Dark Depths,Turbo Depths,,23.0,League,2,0,BUG Lands
+73,2/5/2020,6.0,2,0,4%,BUG Lands,Dark Depths,Turbo Depths,,23.0,League,1,1,BUG Lands
+74,2/5/2020,7.0,2,0,10%,BUG Lands,Graveyard,Dredge,,52.0,League,1,1,BUG Lands
+75,2/5/2020,8.0,2,0,16%,BUG Lands,Delver,UR Delver,,83.0,League,0,1,BUG Lands
+76,2/5/2020,9.0,0,1,16%,BUG Lands,Delver,UR Delver,,83.0,League,2,0,BUG Lands
+77,2/5/2020,10.0,2,0,8%,BUG Lands,Storm,Belcher,50%,42.0,League,1,1,BUG Lands
+78,2/5/2020,11.0,2,0,8%,BUG Lands,Storm,ANT,40%,42.0,Practice,0,1,BUG Lands
+79,2/5/2020,12.0,1,1,10%,BUG Lands,Graveyard,B Reanimate,40%,52.0,Practice,2,0,BUG Lands
+80,2/5/2020,13.0,1,1,8%,RG Lands,3-4c Control,Astrolabe Control,40%,42.0,Weekly,2,0,RG Lands
+81,2/5/2020,14.0,2,0,5%,RG Lands,Knight,4c Loam,40%,25.0,Weekly,0,1,RG Lands
+82,2/5/2020,15.0,1,1,6%,RG Lands,Tribal,Merfolk,40%,32.0,Weekly,2,0,RG Lands
+83,2/6/2020,16.0,1,1,4%,BUG Lands,Show & Tell,Omnishow,50%,21.0,League,2,0,BUG Lands
+84,2/6/2020,17.0,0,1,6%,BUG Lands,Tribal,Elves,60%,32.0,League,2,0,BUG Lands
+85,2/6/2020,18.0,0,1,16%,BUG Lands,Delver,Grixis Delver,70%,83.0,League,2,0,BUG Lands
+86,2/6/2020,19.0,1,1,8%,BUG Lands,Storm,ANT,70%,42.0,League,2,0,BUG Lands
+87,2/6/2020,20.0,0,1,5%,BUG Lands,White Creatures,W Eldrazi,80%,24.0,League,2,0,BUG Lands
+88,2/6/2020,21.0,1,1,3%,RG Lands,Big Mana,G Cloudpost,90%,17.0,League,2,0,RG Lands
+89,2/24,141.0,1,1,3%,RG Lands,Big Mana,G Cloudpost,70%,17.0,League,2,0,RG Lands
+90,2/6/2020,22.0,1,1,8%,RG Lands,3-4c Control,Grixis Control,90%,42.0,League,2,0,RG Lands
+91,2/6/2020,23.0,2,0,5%,RG Lands,Chalice,Moon Stompy,80%,27.0,League,1,1,RG Lands
+92,2/6/2020,24.0,2,0,13%,RG Lands,Brew/Other,Grixis Vial Smasher,80%,66.0,League,1,1,RG Lands
+93,2/6/2020,25.0,2,0,5%,RG Lands,White Creatures,Death & Taxes,70%,24.0,League,0,1,RG Lands
+94,2/7/2020,26.0,0,1,13%,BUG Lands,Brew/Other,RB Reanimate,70%,66.0,Practice,2,0,BUG Lands
+95,2/7/2020,27.0,0,1,4%,BUG Lands,Dark Depths,Lands,70%,23.0,Practice,2,0,BUG Lands
+96,2/7/2020,28.0,2,0,4%,BUG Lands,UW,UWx Stoneblade,60%,19.0,League,1,1,BUG Lands
+97,2/7/2020,29.0,2,0,4%,BUG Lands,Show & Tell,Omnishow,50%,21.0,League,0,1,BUG Lands
+98,2/7/2020,30.0,2,0,4%,BUG Lands,Dark Depths,Lands,40%,23.0,League,0,1,BUG Lands
+99,2/7/2020,31.0,1,1,5%,BUG Lands,Knight,4c Loam,40%,25.0,League,2,0,BUG Lands
+100,2/7/2020,32.0,1,1,13%,BUG Lands,Brew/Other,W All Taxes,40%,66.0,League,2,0,BUG Lands
+101,2/10/2020,33.0,1,1,6%,RG Lands,Tribal,Goblins,50%,32.0,Weekly,2,0,RG Lands
+102,2/10/2020,34.0,0,1,10%,RG Lands,Graveyard,Hogaak,60%,52.0,Weekly,2,0,RG Lands
+103,2/10/2020,35.0,2,0,4%,RG Lands,UW,Miracles,60%,19.0,Weekly,0,1,RG Lands
+104,2/10/2020,36.0,1,1,5%,RG Lands,Knight,Maverick,60%,25.0,Weekly,2,0,RG Lands
+105,2/10/2020,37.0,0,1,8%,Jund Lands,Storm,Belcher,60%,42.0,League,2,0,Jund Lands
+106,2/10/2020,38.0,2,0,4%,Jund Lands,UW,UWx Control,60%,19.0,League,1,1,Jund Lands
+107,2/10/2020,39.0,1,1,13%,Jund Lands,Brew/Other,Eldrazi,70%,66.0,League,2,0,Jund Lands
+108,2/10/2020,40.0,1,1,6%,Jund Lands,Tribal,Goblins,80%,32.0,League,2,0,Jund Lands
+109,2/10/2020,41.0,2,0,13%,Jund Lands,Brew/Other,RB Reanimate,70%,66.0,League,1,1,Jund Lands
+110,2/11/2020,42.0,2,0,5%,Jund Lands,Chalice,Urza,60%,27.0,League,0,1,Jund Lands
+111,2/11/2020,43.0,2,0,5%,Jund Lands,White Creatures,Death & Taxes,50%,24.0,League,0,1,Jund Lands
+112,2/11/2020,44.0,1,1,4%,Jund Lands,UW,UWx Stoneblade,50%,19.0,League,2,0,Jund Lands
+113,2/11/2020,45.0,2,0,2%,Jund Lands,Burn,Burn,50%,9.0,League,0,1,Jund Lands
+114,2/11/2020,46.0,2,0,4%,Jund Lands,Show & Tell,Omnishow,40%,21.0,League,1,1,Jund Lands
+115,2/12/2020,47.0,1,1,8%,BUG Lands,3-4c Control,Stryfo Pile,40%,42.0,League,2,0,BUG Lands
+116,2/12/2020,48.0,2,0,8%,BUG Lands,3-4c Control,RUG Control,40%,42.0,League,0,1,BUG Lands
+117,2/12/2020,49.0,0,1,6%,BUG Lands,Tribal,Goblins,40%,32.0,League,2,0,BUG Lands
+118,2/12/2020,50.0,2,0,4%,BUG Lands,UW,UWx Control,30%,19.0,League,1,1,BUG Lands
+119,2/12/2020,51.0,2,0,13%,BUG Lands,Brew/Other,RB Reanimate,30%,66.0,League,0,1,BUG Lands
+120,2/12/2020,52.0,2,0,4%,BUG Lands,UW,UWx Control,30%,19.0,Practice,1,1,BUG Lands
+121,2/12/2020,53.0,1,1,16%,BUG Lands,Delver,UR Delver,40%,83.0,Practice,2,0,BUG Lands
+122,2/12/2020,54.0,2,0,4%,RG Lands,UW,UWx Control,30%,19.0,Weekly,1,1,RG Lands
+123,2/12/2020,55.0,0,1,16%,RG Lands,Delver,UR Delver,40%,83.0,Weekly,2,0,RG Lands
+124,2/12/2020,56.0,0,1,5%,RG Lands,White Creatures,Death & Taxes,50%,24.0,Weekly,2,0,RG Lands
+125,2/13/2020,57.0,1,1,2%,BUG Lands,Burn,Burn,50%,9.0,League,2,0,BUG Lands
+126,2/13/2020,58.0,0,1,5%,BUG Lands,Chalice,Bomberman,60%,27.0,League,2,0,BUG Lands
+127,2/13/2020,59.0,0,1,13%,BUG Lands,Brew/Other,Eldrazi Aggro,60%,66.0,League,2,0,BUG Lands
+128,2/13/2020,60.0,1,1,16%,BUG Lands,Delver,UB Shadow,70%,83.0,League,2,0,BUG Lands
+129,2/13/2020,61.0,1,1,13%,BUG Lands,Brew/Other,Eldrazi Aggro,80%,66.0,League,2,0,BUG Lands
+130,2/15/2020,62.0,0,1,13%,BG Lands,Brew/Other,Mono U Dreadnought,90%,66.0,League,2,0,BG Lands
+131,2/15/2020,63.0,2,0,8%,BG Lands,Storm,Underworld Breach,80%,42.0,League,0,1,BG Lands
+132,2/15/2020,64.0,0,1,8%,BG Lands,3-4c Control,Stryfo Pile,90%,42.0,League,2,0,BG Lands
+133,2/15/2020,65.0,0,1,4%,BG Lands,Dark Depths,Turbo Depths,90%,23.0,League,2,0,BG Lands
+134,2/15/2020,66.0,2,0,8%,BG Lands,Storm,Underworld Breach,80%,42.0,League,0,1,BG Lands
+135,2/15/2020,67.0,0,1,10%,BG Lands,Graveyard,Dredge,80%,52.0,Practice,2,0,BG Lands
+136,2/16/2020,68.0,1,1,1%,RG Lands,Combo-Control,Food Chain,80%,4.0,Weekly,2,0,RG Lands
+137,2/16/2020,69.0,0,1,8%,RG Lands,3-4c Control,Astrolabe Control,80%,42.0,Weekly,2,0,RG Lands
+138,2/16/2020,70.0,0,1,6%,RG Lands,Tribal,Elves,80%,32.0,Weekly,2,0,RG Lands
+139,2/16/2020,71.0,1,1,0%,RG Lands,Pox,Pox,80%,2.0,Weekly,2,0,RG Lands
+140,2/17/2020,72.0,2,0,6%,BG Lands,Tribal,Elves,70%,32.0,League,1,1,BG Lands
+141,2/17/2020,73.0,2,0,1%,BG Lands,Infect,Infect,70%,6.0,League,0,1,BG Lands
+142,2/17/2020,74.0,2,0,1%,BG Lands,Painter,Painter,60%,6.0,League,0,1,BG Lands
+143,2/17/2020,75.0,0,1,5%,BG Lands,White Creatures,Death & Taxes,60%,24.0,League,2,0,BG Lands
+144,2/17/2020,76.0,1,1,10%,BG Lands,Graveyard,Dredge,70%,52.0,League,2,0,BG Lands
+145,2/17/2020,77.0,2,0,5%,BUG Lands,White Creatures,Death & Taxes,60%,24.0,League,0,1,BUG Lands
+146,2/17/2020,78.0,1,1,16%,BUG Lands,Delver,Grixis Delver,60%,83.0,League,2,0,BUG Lands
+147,2/17/2020,79.0,2,0,16%,BUG Lands,Delver,Grixis Delver,50%,83.0,League,0,1,BUG Lands
+148,2/17/2020,80.0,1,1,5%,BUG Lands,Chalice,Eldrazi Stompy,50%,27.0,League,2,0,BUG Lands
+149,2/17/2020,81.0,2,0,4%,BUG Lands,Dark Depths,Slow Depths,40%,23.0,League,0,1,BUG Lands
+150,2/17/2020,82.0,1,1,3%,BUG Lands,Big Mana,Eldrazi Post,50%,17.0,League,2,0,BUG Lands
+151,2/19/2020,83.0,1,1,4%,BUG Lands,UW,UWx Control,60%,19.0,League,2,0,BUG Lands
+152,2/19/2020,84.0,2,0,16%,BUG Lands,Delver,UB Shadow,60%,83.0,League,0,1,BUG Lands
+153,2/19/2020,85.0,0,1,16%,BUG Lands,Delver,UR Delver,60%,83.0,League,2,0,BUG Lands
+154,2/19/2020,86.0,1,1,5%,BUG Lands,Chalice,Steel Stompy,60%,27.0,League,2,0,BUG Lands
+155,2/19/2020,87.0,1,1,16%,RG Lands,Delver,UB Shadow,70%,83.0,Weekly,2,0,RG Lands
+156,2/19/2020,88.0,2,0,4%,RG Lands,Dark Depths,Slow Depths,60%,23.0,Weekly,0,1,RG Lands
+157,2/19/2020,89.0,2,0,10%,RG Lands,Graveyard,Manaless Dredge,60%,52.0,Weekly,1,1,RG Lands
+158,2/20,90.0,2,0,8%,Jund Lands,3-4c Control,Stryfo Pile,50%,42.0,League,1,1,Jund Lands
+159,2/20,91.0,1,1,10%,Jund Lands,Graveyard,Dredge,60%,52.0,League,2,0,Jund Lands
+160,2/20,92.0,2,0,16%,Jund Lands,Delver,UR Delver,50%,83.0,League,0,1,Jund Lands
+161,2/20,93.0,2,0,13%,Jund Lands,Brew/Other,Blue Robot Stompy,40%,66.0,League,0,1,Jund Lands
+162,2/20,94.0,2,0,8%,Jund Lands,Storm,TES,40%,42.0,League,1,1,Jund Lands
+163,2/20,95.0,1,1,10%,BUG Lands,Graveyard,Hogaak,40%,52.0,League,2,0,BUG Lands
+164,2/20,96.0,1,1,5%,BUG Lands,White Creatures,Esper Vial,40%,24.0,League,2,0,BUG Lands
+165,2/20,97.0,1,1,8%,BUG Lands,Storm,Belcher,40%,42.0,League,2,0,BUG Lands
+166,2/20,98.0,1,1,8%,BUG Lands,Storm,Underworld Breach,50%,42.0,League,2,0,BUG Lands
+167,2/20,99.0,0,1,1%,BUG Lands,Infect,Infect,60%,6.0,League,2,0,BUG Lands
+168,2/21,100.0,2,0,8%,BUG Lands,Storm,Underworld Breach,60%,42.0,League,1,1,BUG Lands
+169,2/21,101.0,1,1,4%,BUG Lands,Dark Depths,Lands,60%,23.0,League,2,0,BUG Lands
+170,2/21,102.0,1,1,16%,BUG Lands,Delver,RUG Delver,70%,83.0,League,2,0,BUG Lands
+171,2/21,103.0,0,1,3%,BUG Lands,Big Mana,Eldrazi Post,80%,17.0,League,2,0,BUG Lands
+172,2/21,104.0,2,0,5%,BUG Lands,Chalice,Eldrazi Stompy,80%,27.0,League,0,1,BUG Lands
+173,2/21,105.0,2,0,6%,Horny Lands,Tribal,Elves,70%,32.0,League,1,1,Experimental
+174,2/21,106.0,2,0,2%,Horny Lands,Burn,Burn,60%,9.0,League,0,1,Experimental
+175,2/21,107.0,2,0,16%,Horny Lands,Delver,Grixis Delver,50%,83.0,League,0,1,Experimental
+176,2/21,108.0,2,0,4%,Horny Lands,UW,UWx Stoneblade,40%,19.0,League,0,1,Experimental
+177,2/21,109.0,2,0,1%,Horny Lands,Infect,Infect,30%,6.0,League,0,1,Experimental
+178,2/21,110.0,0,1,6%,BUG Lands,Tribal,Elves,40%,32.0,League,2,0,BUG Lands
+179,2/21,111.0,1,1,8%,BUG Lands,Storm,Belcher,40%,42.0,League,2,0,BUG Lands
+180,2/21,112.0,1,1,5%,BUG Lands,Chalice,Eldrazi Stompy,40%,27.0,League,2,0,BUG Lands
+181,2/21,113.0,1,1,3%,BUG Lands,Big Mana,Eldrazi Post,40%,17.0,League,2,0,BUG Lands
+182,2/21,114.0,0,1,1%,BUG Lands,Nic Fit,Nic Fit,50%,5.0,League,2,0,BUG Lands
+183,2/21,115.0,1,1,13%,BUG Lands,Brew/Other,BUG Chalice GSZ,60%,66.0,League,2,0,BUG Lands
+184,2/21,116.0,1,1,16%,BUG Lands,Delver,UR Delver,70%,83.0,League,2,0,BUG Lands
+185,2/21,117.0,0,1,4%,BUG Lands,UW,Miracles,80%,19.0,League,2,0,BUG Lands
+186,2/21,118.0,2,0,16%,BUG Lands,Delver,UR Delver,80%,83.0,League,1,1,BUG Lands
+187,2/21,119.0,1,1,4%,BUG Lands,UW,Miracles,90%,19.0,League,2,0,BUG Lands
+188,2/21,120.0,0,1,8%,Ug Stifle Lands,3-4c Control,Shardless BUG,90%,42.0,League,2,0,
+189,2/21,121.0,1,1,3%,Ug Stifle Lands,Big Mana,Eldrazi Post,90%,17.0,League,2,0,
+190,2/21,122.0,1,1,13%,Ug Stifle Lands,Brew/Other,RB Reanimate,90%,66.0,League,2,0,
+191,2/21,123.0,2,0,4%,Ug Stifle Lands,Show & Tell,Omnishow,80%,21.0,League,0,1,
+192,2/21,124.0,2,0,1%,Ug Stifle Lands,Painter,Painter,70%,6.0,League,1,1,
+193,2/23,125.0,2,0,6%,BUG Lands,Tribal,Elementals,60%,32.0,League,1,1,BUG Lands
+194,2/23,126.0,2,0,4%,BUG Lands,UW,Miracles,50%,19.0,League,1,1,BUG Lands
+195,2/23,127.0,2,0,8%,BUG Lands,3-4c Control,Astrolabe Control,40%,42.0,League,1,1,BUG Lands
+196,2/23,128.0,1,1,13%,BUG Lands,Brew/Other,Oops All Spells,50%,66.0,League,2,0,BUG Lands
+197,2/23,129.0,2,0,8%,BUG Lands,Storm,TES,40%,42.0,League,1,1,BUG Lands
+198,2/24,130.0,0,1,8%,BUG Lands,3-4c Control,Astrolabe Control,40%,42.0,League,2,0,BUG Lands
+199,2/24,131.0,0,1,16%,BUG Lands,Delver,UR Delver,40%,83.0,League,2,0,BUG Lands
+200,2/24,132.0,1,1,5%,BUG Lands,White Creatures,Death & Taxes,40%,24.0,League,2,0,BUG Lands
+201,2/24,133.0,1,1,16%,BUG Lands,Delver,UB Shadow,50%,83.0,League,2,0,BUG Lands
+202,2/24,134.0,2,0,13%,BUG Lands,Brew/Other,Breach Delver,50%,66.0,League,0,1,BUG Lands
+203,2/24,135.0,0,1,4%,RG Lands,Show & Tell,Sneak & Show,60%,21.0,League,2,0,RG Lands
+204,2/24,136.0,0,1,13%,RG Lands,Brew/Other,LED Depths,70%,66.0,League,2,0,RG Lands
+205,2/24,137.0,0,1,2%,RG Lands,Burn,Burn,80%,9.0,League,2,0,RG Lands
+206,2/24,138.0,2,0,16%,RG Lands,Delver,Grixis Delver,70%,83.0,League,1,1,RG Lands
+207,2/24,139.0,2,0,3%,RG Lands,Big Mana,G Cloudpost,70%,17.0,League,1,1,RG Lands
+208,2/24,140.0,1,1,8%,RG Lands,Storm,Underworld Breach,70%,42.0,League,2,0,RG Lands
+209,2/24,142.0,1,1,8%,RG Lands,Storm,Underworld Breach,70%,42.0,League,2,0,RG Lands
+210,2/24,143.0,0,1,1%,RG Lands,Jund,Jund,70%,3.0,League,2,0,RG Lands
+211,2/24,144.0,1,1,13%,RG Lands,Brew/Other,UR Dreadought,80%,66.0,League,2,0,RG Lands
+212,2/25,145.0,2,0,13%,RG Lands,Brew/Other,UR Dreadought,70%,66.0,League,1,1,RG Lands
+213,2/25,146.0,1,1,13%,RG Lands,Brew/Other,Four Horsemen,70%,66.0,League,2,0,RG Lands
+214,2/25,147.0,2,0,5%,RG Lands,Chalice,Eldrazi Stompy,60%,27.0,League,1,1,RG Lands
+215,2/25,148.0,0,1,3%,RG Lands,Big Mana,Eldrazi Post,70%,17.0,League,2,0,RG Lands
+216,2/25,149.0,2,0,5%,RG Lands,Knight,4c Loam,70%,25.0,League,0,1,RG Lands
+217,2/28,150.0,2,0,8%,RG Lands,3-4c Control,Astrolabe Control,60%,42.0,League,0,1,RG Lands
+218,2/28,151.0,2,0,5%,RG Lands,Knight,4c Loam,50%,25.0,League,0,1,RG Lands
+219,2/28,152.0,2,0,16%,RG Lands,Delver,UR Delver,40%,83.0,League,0,1,RG Lands
+220,2/28,153.0,2,0,4%,RG Lands,Dark Depths,Lands,30%,23.0,League,1,1,RG Lands
+221,3/1,154.0,2,0,4%,Jund Lands,UW,Miracles,20%,19.0,Weekly,0,1,Jund Lands
+222,3/1,155.0,1,1,5%,Jund Lands,Chalice,Eldrazi Stompy,30%,27.0,Weekly,2,0,Jund Lands
+223,3/1,156.0,2,0,4%,Jund Lands,UW,Miracles,20%,19.0,Weekly,1,1,Jund Lands
+224,3/1,157.0,2,0,8%,Jund Lands,Storm,Underworld Breach,20%,42.0,League,0,1,Jund Lands
+225,3/1,158.0,0,1,1%,Jund Lands,Combo-Control,Aluren,20%,4.0,League,2,0,Jund Lands
+226,3/1,159.0,2,0,13%,Jund Lands,Brew/Other,Kavu Predator,20%,66.0,League,0,1,Jund Lands
+227,3/1,160.0,2,0,8%,Jund Lands,3-4c Control,Astrolabe Control,20%,42.0,League,0,1,Jund Lands
+228,3/1,161.0,0,1,10%,Jund Lands,Graveyard,Hogaak,30%,52.0,League,2,0,Jund Lands
+229,3/2,162.0,2,0,5%,Jund Lands,White Creatures,Death & Taxes,30%,24.0,League,0,1,Jund Lands
+230,3/2,163.0,2,0,8%,Jund Lands,Storm,Underworld Breach,30%,42.0,League,1,1,Jund Lands
+231,3/2,164.0,2,0,5%,Jund Lands,White Creatures,Death & Taxes,30%,24.0,League,0,1,Jund Lands
+232,3/2,165.0,2,0,2%,Jund Lands,Burn,Burn,20%,9.0,League,0,1,Jund Lands
+233,3/2,166.0,0,1,16%,Jund Lands,Delver,UB Shadow,30%,83.0,League,2,0,Jund Lands
+234,3/3,167.0,2,0,8%,Jund Lands,3-4c Control,Astrolabe Control,30%,42.0,League,1,1,Jund Lands
+235,3/3,168.0,2,0,5%,Jund Lands,White Creatures,Death & Taxes,20%,24.0,League,1,1,Jund Lands
+236,3/3,169.0,1,1,16%,Jund Lands,Delver,UB Shadow,30%,83.0,League,2,0,Jund Lands
+237,3/3,170.0,2,0,4%,Jund Lands,Show & Tell,Omnishow,30%,21.0,League,1,1,Jund Lands
+238,3/3,171.0,1,1,16%,Jund Lands,Delver,UB Shadow,30%,83.0,League,2,0,Jund Lands
+239,3/4,172.0,2,0,5%,Jund Lands,Knight,4c Loam,30%,25.0,League,0,1,Jund Lands
+240,3/4,173.0,0,1,3%,Jund Lands,Big Mana,Eldrazi Post,40%,17.0,League,2,0,Jund Lands
+241,3/4,174.0,2,0,1%,Jund Lands,Painter,Painter,40%,6.0,League,1,1,Jund Lands
+242,3/4,175.0,0,1,8%,Jund Lands,Storm,Underworld Breach,50%,42.0,League,2,0,Jund Lands
+243,3/4,176.0,1,1,5%,Jund Lands,Knight,4c Loam,50%,25.0,League,2,0,Jund Lands
+244,3/5,177.0,2,0,16%,BUG Lands,Delver,UR Delver,50%,83.0,League,1,1,BUG Lands
+245,3/5,178.0,1,1,16%,BUG Lands,Delver,UB Shadow,60%,83.0,League,2,0,BUG Lands
+246,3/5,179.0,0,1,8%,BUG Lands,3-4c Control,Stryfo Pile,60%,42.0,League,2,0,BUG Lands
+247,3/5,180.0,1,1,1%,BUG Lands,Jund,Jund,70%,3.0,League,2,0,BUG Lands
+248,3/5,181.0,2,0,8%,BUG Lands,Storm,Belcher,60%,42.0,League,0,1,BUG Lands
+249,3/4,182.0,2,0,16%,Jund Lands,Delver,UR Delver,60%,83.0,Weekly,0,1,Jund Lands
+250,3/4,183.0,2,0,5%,Jund Lands,Knight,Maverick,50%,25.0,Weekly,1,1,Jund Lands
+251,3/4,184.0,0,1,5%,Jund Lands,White Creatures,Death & Taxes,60%,24.0,Weekly,2,0,Jund Lands
+252,3/6,185.0,2,0,8%,BUG Lands,Storm,Underworld Breach,50%,42.0,League,1,1,BUG Lands
+253,3/6,186.0,2,0,5%,BUG Lands,Chalice,Moon Stompy,40%,27.0,League,1,1,BUG Lands
+254,3/6,187.0,1,1,16%,BUG Lands,Delver,RUG Delver,50%,83.0,League,2,0,BUG Lands
+255,3/6,188.0,1,1,13%,BUG Lands,Brew/Other,BUG Vial,50%,66.0,League,2,0,BUG Lands
+256,3/6,189.0,2,0,5%,BUG Lands,Knight,4c Loam,40%,25.0,League,1,1,BUG Lands
+257,3/7,190.0,0,1,5%,RG Lands,Knight,Maverick,40%,25.0,League,2,0,RG Lands
+258,3/7,191.0,2,0,3%,RG Lands,Big Mana,Colorless Cloudpost,40%,17.0,League,1,1,RG Lands
+259,3/7,192.0,0,1,4%,RG Lands,Dark Depths,Lands,50%,23.0,League,2,0,RG Lands
+260,3/7,193.0,2,0,1%,RG Lands,Infect,Infect,50%,6.0,League,1,1,RG Lands
+261,3/7,194.0,2,0,8%,RG Lands,Storm,Underworld Breach,40%,42.0,League,1,1,RG Lands
+262,3/8,195.0,0,1,13%,BUG Lands,Brew/Other,RB Reanimate,50%,66.0,Weekly,2,0,BUG Lands
+263,3/8,196.0,0,1,8%,BUG Lands,3-4c Control,BUG Control,60%,42.0,Weekly,2,0,BUG Lands
+264,3/8,197.0,0,1,2%,BUG Lands,Doomsday,Doomsday,60%,9.0,Weekly,2,0,BUG Lands
+265,3/8,198.0,0,1,0%,BUG Lands,Pox,Pox,60%,2.0,Weekly,2,0,BUG Lands
+266,3/11,199.0,1,1,5%,Jund Lands,Chalice,Moon Stompy,,27.0,League,2,0,Jund Lands
+267,3/11,200.0,0,1,8%,Jund Lands,3-4c Control,BUG Control,,42.0,League,2,0,Jund Lands
+268,3/11,201.0,1,1,16%,Jund Lands,Delver,RUG Delver,,83.0,League,2,0,Jund Lands
+269,3/11,202.0,1,1,2%,Jund Lands,Doomsday,Doomsday,,9.0,League,2,0,Jund Lands
+270,3/11,203.0,1,1,16%,Jund Lands,Delver,RUG Delver,,83.0,League,2,0,Jund Lands
+271,3/11,204.0,1,1,10%,BUG Lands,Graveyard,B Reanimate,,52.0,Weekly,2,0,BUG Lands
+272,3/11,205.0,0,1,13%,BUG Lands,Brew/Other,Survivalless,,66.0,Weekly,2,0,BUG Lands
+273,3/11,206.0,0,1,5%,BUG Lands,White Creatures,Death & Taxes,,24.0,Weekly,2,0,BUG Lands
+274,3/12,207.0,0,1,8%,Jund Lands,Storm,ANT,,42.0,League,2,0,Jund Lands
+275,3/12,208.0,1,1,5%,Jund Lands,Knight,4c Loam,100%,25.0,League,2,0,Jund Lands
+276,3/12,209.0,2,0,10%,Jund Lands,Graveyard,Hogaak,90%,52.0,League,0,1,Jund Lands
+277,3/12,210.0,0,1,1%,Jund Lands,Infect,Infect,90%,6.0,League,2,0,Jund Lands
+278,3/12,211.0,0,1,16%,Jund Lands,Delver,UR Delver,90%,83.0,League,2,0,Jund Lands
+279,3/12,212.0,2,0,2%,Dune Lands,Doomsday,Doomsday,80%,9.0,League,1,1,RG Lands
+280,3/12,213.0,2,0,5%,Dune Lands,White Creatures,Death & Taxes,70%,24.0,League,0,1,RG Lands
+281,3/12,214.0,1,1,6%,Dune Lands,Tribal,Elves,70%,32.0,League,2,0,RG Lands
+282,3/12,215.0,0,1,3%,Dune Lands,Big Mana,Colorless Cloudpost,70%,17.0,League,2,0,RG Lands
+283,3/12,216.0,2,0,8%,Dune Lands,Storm,Belcher,60%,42.0,League,1,1,RG Lands
+284,3/13,217.0,2,0,16%,Daze Lands,Delver,RUG Delver,50%,83.0,League,0,1,Experimental
+285,3/13,218.0,2,0,10%,Daze Lands,Graveyard,Hogaak,40%,52.0,League,0,1,Experimental
+286,3/13,219.0,1,1,4%,Daze Lands,Show & Tell,Omnishow,50%,21.0,League,2,0,Experimental
+287,3/13,220.0,0,1,13%,Daze Lands,Brew/Other,Curse Prison,50%,66.0,League,2,0,Experimental
+288,3/13,221.0,2,0,13%,Daze Lands,Brew/Other,Phoenix Delver,40%,66.0,League,1,1,Experimental
+289,3/15/2020,222.0,2,0,16%,Jund Lands,Delver,Grixis Delver,40%,83.0,League,0,1,Jund Lands
+290,3/15/2020,223.0,2,0,16%,Jund Lands,Delver,UR Delver,40%,83.0,League,0,1,Jund Lands
+291,3/16/2020,224.0,2,0,16%,Jund Lands,Delver,RUG Delver,30%,83.0,League,1,1,Jund Lands
+292,3/16/2020,225.0,0,1,8%,Jund Lands,3-4c Control,Stryfo Pile,30%,42.0,League,2,0,Jund Lands
+293,3/16/2020,226.0,1,1,5%,Jund Lands,Chalice,Eldrazi Stompy,40%,27.0,League,2,0,Jund Lands
+294,3/16/2020,227.0,1,1,16%,Jund Lands,Delver,UR Delver,50%,83.0,League,2,0,Jund Lands
+295,3/16/2020,228.0,0,1,2%,Jund Lands,Doomsday,Doomsday,60%,9.0,League,2,0,Jund Lands
+296,3/16/2020,229.0,0,1,6%,Jund Lands,Tribal,Elves,60%,32.0,League,2,0,Jund Lands
+297,3/16/2020,230.0,2,0,13%,Jund Lands,Brew/Other,Chalice Titan,50%,66.0,League,1,1,Jund Lands
+298,3/16/2020,231.0,2,0,8%,Jund Lands,3-4c Control,4c Control,50%,42.0,League,0,1,Jund Lands
+299,3/16/2020,232.0,2,0,4%,Jund Lands,Show & Tell,Omnishow,50%,21.0,League,0,1,Jund Lands
+300,3/16/2020,233.0,1,1,13%,Jund Lands,Brew/Other,DETH,60%,66.0,League,2,0,Jund Lands
+301,3/16/2020,234.0,2,0,4%,Jund Lands,Dark Depths,Slow Depths,60%,23.0,League,1,1,Jund Lands
+302,3/16/2020,235.0,2,0,10%,Jund Lands,Graveyard,BR Reanimator,50%,52.0,League,1,1,Jund Lands
+303,3/16/2020,236.0,0,1,16%,Jund Lands,Delver,RUG Delver,50%,83.0,League,2,0,Jund Lands
+304,3/18/2020,237.0,0,1,16%,Jund Lands,Delver,RUG Delver,50%,83.0,League,2,0,Jund Lands
+305,3/18/2020,238.0,0,1,6%,Jund Lands,Tribal,Slivers,50%,32.0,League,2,0,Jund Lands
+306,3/18/2020,239.0,2,0,6%,Jund Lands,Tribal,Goblins,40%,32.0,League,0,1,Jund Lands
+307,3/18/2020,240.0,1,1,16%,Jund Lands,Delver,UR Delver,50%,83.0,League,2,0,Jund Lands
+308,3/18/2020,241.0,0,1,16%,Jund Lands,Delver,Grixis Delver,60%,83.0,League,2,0,Jund Lands
+309,3/18/2020,242.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,70%,52.0,League,2,0,Jund Lands
+310,3/18/2020,243.0,2,0,8%,Jund Lands,Storm,ANT,60%,42.0,League,0,1,Jund Lands
+311,3/18/2020,244.0,2,0,8%,Jund Lands,Storm,Belcher,60%,42.0,League,0,1,Jund Lands
+312,3/18/2020,245.0,0,1,5%,Jund Lands,White Creatures,Death & Taxes,70%,24.0,League,2,0,Jund Lands
+313,3/18/2020,246.0,2,0,8%,Jund Lands,Storm,ANT,60%,42.0,League,1,1,Jund Lands
+314,3/19/2020,247.0,0,1,13%,Jund Lands,Brew/Other,4c Urza,60%,66.0,League,2,0,Jund Lands
+315,3/19/2020,248.0,2,0,4%,Jund Lands,Show & Tell,Sneak & Show,50%,21.0,League,0,1,Jund Lands
+316,3/19/2020,249.0,0,1,6%,Jund Lands,Tribal,Elves,60%,32.0,League,2,0,Jund Lands
+317,3/19/2020,250.0,2,0,16%,Jund Lands,Delver,BUG Delver,50%,83.0,League,0,1,Jund Lands
+318,3/19/2020,251.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,50%,52.0,League,2,0,Jund Lands
+319,3/21/2020,252.0,1,1,13%,Jund Lands,Brew/Other,Chalice Titan,50%,66.0,Tournament,2,0,Jund Lands
+320,3/21/2020,253.0,1,1,5%,Jund Lands,Chalice,Moon Stompy,60%,27.0,League,2,0,Jund Lands
+321,3/21/2020,254.0,1,1,4%,Jund Lands,Dark Depths,Lands,70%,23.0,League,2,0,Jund Lands
+322,3/21/2020,255.0,2,0,8%,Jund Lands,Storm,Belcher,60%,42.0,League,0,1,Jund Lands
+323,3/21/2020,256.0,0,1,13%,Jund Lands,Brew/Other,Chalice Titan,70%,66.0,League,2,0,Jund Lands
+324,3/21/2020,257.0,1,1,2%,Jund Lands,Doomsday,Doomsday,70%,9.0,League,2,0,Jund Lands
+325,3/23/2020,258.0,2,0,16%,Junk Lands,Delver,Grixis Delver,70%,83.0,League,0,1,Experimental
+326,3/23/2020,259.0,2,0,16%,Junk Lands,Delver,RUG Delver,60%,83.0,League,1,1,Experimental
+327,3/23/2020,260.0,2,0,5%,Junk Lands,Knight,4c Loam,60%,25.0,League,1,1,Experimental
+328,3/23/2020,261.0,1,1,8%,Jund Lands,3-4c Control,4c Control,60%,42.0,League,2,0,Jund Lands
+329,3/23/2020,262.0,0,1,10%,Jund Lands,Graveyard,BR Reanimator,60%,52.0,League,2,0,Jund Lands
+330,3/23/2020,263.0,0,1,4%,Jund Lands,Show & Tell,Sneak & Show,60%,21.0,League,2,0,Jund Lands
+331,3/23/2020,264.0,2,0,13%,Jund Lands,Brew/Other,BUG Zenith Oko,50%,66.0,League,1,1,Jund Lands
+332,3/23/2020,265.0,2,0,8%,Jund Lands,3-4c Control,4c Control,50%,42.0,League,0,1,Jund Lands
+333,3/23/2020,266.0,2,0,8%,Jund Lands,3-4c Control,4c Control,40%,42.0,League,1,1,Jund Lands
+334,3/23/2020,267.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,40%,52.0,League,2,0,Jund Lands
+335,3/23/2020,268.0,1,1,4%,Jund Lands,Dark Depths,Lands,50%,23.0,League,2,0,Jund Lands
+336,3/23/2020,269.0,2,0,16%,Jund Lands,Delver,RUG Delver,50%,83.0,League,0,1,Jund Lands
+337,3/23/2020,270.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,60%,52.0,League,2,0,Jund Lands
+338,3/23/2020,271.0,2,0,2%,Jund Lands,Burn,Burn,50%,9.0,Tournament,0,1,Jund Lands
+339,3/24/2020,272.0,2,0,13%,Dark Queen Lands,Brew/Other,MUD,40%,66.0,League,0,1,BG Lands
+340,3/24/2020,273.0,0,1,13%,Dark Queen Lands,Brew/Other,GB Reanimator,40%,66.0,League,2,0,BG Lands
+341,3/24/2020,274.0,0,1,8%,Dark Queen Lands,3-4c Control,4c Control,50%,42.0,League,2,0,BG Lands
+342,3/24/2020,275.0,2,0,10%,Dark Queen Lands,Graveyard,BR Reanimator,50%,52.0,League,0,1,BG Lands
+343,3/24/2020,276.0,1,1,16%,Dark Queen Lands,Delver,RUG Delver,60%,83.0,League,2,0,BG Lands
+344,3/25/2020,277.0,2,0,16%,Dark Queen Lands,Delver,Grixis Delver,50%,83.0,League,0,1,BG Lands
+345,3/25/2020,278.0,2,0,13%,Dark Queen Lands,Brew/Other,BUG Loam,40%,66.0,League,0,1,BG Lands
+346,3/25/2020,279.0,1,1,10%,Dark Queen Lands,Graveyard,Hogaak,50%,52.0,League,2,0,BG Lands
+347,3/25/2020,280.0,1,1,5%,Dark Queen Lands,White Creatures,W Eldrazi,50%,24.0,League,2,0,BG Lands
+348,3/25/2020,281.0,2,0,13%,Dark Queen Lands,Brew/Other,Worldgorger Midrange,50%,66.0,League,1,1,BG Lands
+349,3/25/2020,282.0,2,0,10%,Jund Lands,Graveyard,Hogaak,50%,52.0,League,0,1,Jund Lands
+350,3/25/2020,283.0,2,0,4%,Jund Lands,Dark Depths,Lands,40%,23.0,League,1,1,Jund Lands
+351,3/25/2020,284.0,1,1,2%,Jund Lands,Doomsday,Doomsday,40%,9.0,League,2,0,Jund Lands
+352,3/25/2020,285.0,2,0,8%,Jund Lands,3-4c Control,4c Control,40%,42.0,League,1,1,Jund Lands
+353,3/25/2020,286.0,0,0,5%,Jund Lands,White Creatures,Death & Taxes,40%,24.0,League,1,0,Jund Lands
+354,3/25/2020,287.0,1,1,8%,Jund Lands,Storm,Belcher,50%,42.0,League,2,0,Jund Lands
+355,3/26/2020,288.0,2,0,6%,Jund Lands,Tribal,Merfolk,50%,32.0,Tournament,0,1,Jund Lands
+356,3/27,289.0,2,0,16%,RUG Lands,Delver,UR Delver,40%,83.0,League,0,1,RUG Lands
+357,3/27,290.0,1,1,16%,RUG Lands,Delver,UB Delver,40%,83.0,League,2,0,RUG Lands
+358,3/27,291.0,0,1,10%,RUG Lands,Graveyard,BR Reanimator,50%,52.0,League,2,0,RUG Lands
+359,3/27,292.0,2,0,4%,RUG Lands,Dark Depths,Lands,50%,23.0,League,1,1,RUG Lands
+360,3/27,293.0,0,1,13%,RUG Lands,Brew/Other,Sylvan Plug,60%,66.0,League,2,0,RUG Lands
+361,3/27,294.0,1,1,6%,RUG Lands,Tribal,Elves,60%,32.0,League,2,0,RUG Lands
+362,3/27,295.0,0,1,5%,BUG Lands,White Creatures,Death & Taxes,70%,24.0,League,2,0,BUG Lands
+363,3/27,296.0,1,1,6%,BUG Lands,Tribal,Humans,70%,32.0,League,2,0,BUG Lands
+364,3/27,297.0,1,1,5%,BUG Lands,White Creatures,Esper Vial,70%,24.0,League,2,0,BUG Lands
+365,3/27,298.0,2,0,10%,BUG Lands,Graveyard,BR Reanimator,70%,52.0,League,0,1,BUG Lands
+366,3/27,299.0,2,0,16%,BUG Lands,Delver,RUG Delver,70%,83.0,League,1,1,BUG Lands
+367,3/27,300.0,0,1,13%,BUG Lands,Brew/Other,BUG Zenith Oko,70%,66.0,Fun,2,0,BUG Lands
+368,3/31,301.0,0,1,5%,BUG Lands,White Creatures,Death & Taxes,70%,24.0,Tournament,2,0,BUG Lands
+369,3/31,302.0,1,1,1%,BUG Lands,Jund,Jund,80%,3.0,League,2,0,BUG Lands
+370,3/31,303.0,1,1,5%,BUG Lands,Knight,4c Loam,80%,25.0,League,2,0,BUG Lands
+371,3/31,304.0,0,1,10%,BUG Lands,Graveyard,Hogaak,80%,52.0,League,2,0,BUG Lands
+372,3/31,305.0,2,0,16%,BUG Lands,Delver,UR Delver,70%,83.0,League,1,1,BUG Lands
+373,3/31,306.0,1,1,10%,BUG Lands,Graveyard,UB Reanimate,70%,52.0,League,2,0,BUG Lands
+374,4/1,307.0,2,0,16%,RUG Lands,Delver,Grixis Delver,60%,83.0,League,0,1,RUG Lands
+375,4/1,308.0,1,1,5%,RUG Lands,Knight,4c Loam,70%,25.0,League,2,0,RUG Lands
+376,4/1,309.0,2,0,16%,RUG Lands,Delver,UR Delver,70%,83.0,League,1,1,RUG Lands
+377,4/1,310.0,2,0,8%,RUG Lands,Storm,TES,60%,42.0,League,0,1,RUG Lands
+378,4/1,311.0,2,0,13%,RUG Lands,Brew/Other,Chalice Titan,50%,66.0,League,1,1,RUG Lands
+379,4/1,312.0,2,0,10%,BUG Lands,Graveyard,Dredge,40%,52.0,League,1,1,BUG Lands
+380,4/1,313.0,2,0,13%,BUG Lands,Brew/Other,Grixis Phoenix,30%,66.0,League,0,1,BUG Lands
+381,4/1,314.0,0,1,3%,BUG Lands,Big Mana,Colorless Cloudpost,30%,17.0,League,2,0,BUG Lands
+382,4/1,315.0,2,0,2%,BUG Lands,Doomsday,Doomsday,30%,9.0,League,0,1,BUG Lands
+383,4/1,316.0,0,1,6%,BUG Lands,Tribal,Goblins,30%,32.0,League,2,0,BUG Lands
+384,4/1,317.0,0,1,1%,BUG Lands,Nic Fit,Nic Fit,40%,5.0,Tournament,2,0,BUG Lands
+385,4/3,318.0,1,1,4%,BG Lands,Dark Depths,Slow Depths,40%,23.0,League,2,0,BG Lands
+386,4/3,319.0,0,1,5%,BG Lands,Chalice,Eldrazi Stompy,50%,27.0,League,2,0,BG Lands
+387,4/3,320.0,1,1,8%,BG Lands,3-4c Control,BUG Control,60%,42.0,League,2,0,BG Lands
+388,4/3,321.0,0,1,8%,BG Lands,Storm,ANT,70%,42.0,League,2,0,BG Lands
+389,4/3,322.0,0,1,4%,BG Lands,Show & Tell,Sneak & Show,80%,21.0,League,2,0,BG Lands
+390,4/3,323.0,2,0,8%,BG Lands,3-4c Control,BUG Control,80%,42.0,League,0,1,BG Lands
+391,4/3,324.0,1,1,8%,BG Lands,3-4c Control,4c Control,80%,42.0,League,2,0,BG Lands
+392,4/3,325.0,0,1,5%,BG Lands,Chalice,Eldrazi Stompy,90%,27.0,League,2,0,BG Lands
+393,4/3,326.0,2,0,10%,BG Lands,Graveyard,BR Reanimator,80%,52.0,League,0,1,BG Lands
+394,4/3,327.0,1,1,2%,BG Lands,Doomsday,Doomsday,80%,9.0,League,2,0,BG Lands
+395,4/3,328.0,2,0,4%,RUG Lands,Show & Tell,Sneak & Show,70%,21.0,League,1,1,RUG Lands
+396,4/3,329.0,1,1,8%,RUG Lands,3-4c Control,BUG Control,70%,42.0,League,2,0,RUG Lands
+397,4/3,330.0,2,0,10%,RUG Lands,Graveyard,BR Reanimator,60%,52.0,League,1,1,RUG Lands
+398,4/3,331.0,0,1,10%,RUG Lands,Graveyard,Dredge,60%,52.0,League,2,0,RUG Lands
+399,4/3,332.0,1,1,5%,RUG Lands,Knight,Maverick,60%,25.0,League,2,0,RUG Lands
+400,4/4,333.0,1,1,16%,RUG Lands,Delver,Grixis Delver,70%,83.0,League,2,0,RUG Lands
+401,4/4,334.0,2,0,1%,RUG Lands,Painter,Painter,60%,6.0,League,0,1,RUG Lands
+402,4/4,335.0,0,1,16%,RUG Lands,Delver,4c Delver,60%,83.0,League,2,0,RUG Lands
+403,4/4,336.0,1,1,10%,RUG Lands,Graveyard,BR Reanimator,70%,52.0,League,2,0,RUG Lands
+404,4/4,337.0,2,0,5%,RUG Lands,Chalice,Urza,60%,27.0,League,1,1,RUG Lands
+405,4/5,338.0,0,1,16%,BG Lands,Delver,RUG Delver,70%,83.0,Tournament,2,0,BG Lands
+406,4/5,339.0,2,0,8%,BG Lands,3-4c Control,4c Control,60%,42.0,Tournament,0,1,BG Lands
+407,4/5,340.0,0,1,3%,BG Lands,Big Mana,G Cloudpost,70%,17.0,Tournament,2,0,BG Lands
+408,4/5,341.0,1,1,5%,BG Lands,Chalice,Urza,70%,27.0,Tournament,2,0,BG Lands
+409,4/5,342.0,1,1,1%,BG Lands,Painter,Painter,70%,6.0,Tournament,2,0,BG Lands
+410,4/5,343.0,2,0,4%,BG Lands,Show & Tell,Sneak & Show,60%,21.0,Tournament,1,1,BG Lands
+411,4/5,344.0,1,1,5%,BG Lands,White Creatures,Esper Vial,70%,24.0,Tournament,2,0,BG Lands
+412,4/5,345.0,2,0,10%,BG Lands,Graveyard,Dredge,60%,52.0,Tournament,0,1,BG Lands
+413,4/5,346.0,0,1,8%,BUG Lands,3-4c Control,BUG Oko Zenith,60%,42.0,Tournament,2,0,BUG Lands
+414,4/6,347.0,1,1,16%,RUG Lands,Delver,Rug Delver,70%,83.0,League,2,0,RUG Lands
+415,4/6,348.0,1,1,10%,RUG Lands,Graveyard,Hogaak,70%,52.0,League,2,0,RUG Lands
+416,4/6,349.0,2,0,13%,RUG Lands,Brew/Other,Bant Oko Zenith,70%,66.0,League,1,1,RUG Lands
+417,4/6,350.0,2,0,8%,RUG Lands,Storm,ANT,60%,42.0,League,1,1,RUG Lands
+418,4/6,351.0,1,1,5%,RUG Lands,Chalice,Urza,60%,27.0,League,2,0,RUG Lands
+419,4/6,352.0,2,0,5%,BG Lands,Knight,4c Loam,50%,25.0,2-Player,0,1,BG Lands
+420,4/8,353.0,0,1,16%,Naya Lands,Delver,4c Delver,60%,83.0,League,2,0,Experimental
+421,4/8,354.0,0,1,16%,Naya Lands,Delver,RUG Delver,60%,83.0,League,2,0,Experimental
+422,4/8,355.0,2,0,4%,Naya Lands,Dark Depths,Lands,60%,23.0,League,0,1,Experimental
+423,4/8,356.0,0,1,5%,Naya Lands,Chalice,Eldrazi Stompy,60%,27.0,League,2,0,Experimental
+424,4/8,357.0,1,1,5%,Naya Lands,Knight,4c Loam,60%,25.0,League,2,0,Experimental
+425,4/8,358.0,2,0,1%,BUG Lands,Combo-Control,Food Chain,50%,4.0,Tournament,0,1,BUG Lands
+426,4/8,359.0,0,1,5%,Junk Lands,Chalice,Eldrazi Stompy,60%,27.0,League,2,0,Experimental
+427,4/8,360.0,1,1,8%,Junk Lands,3-4c Control,BUG Control,70%,42.0,League,2,0,Experimental
+428,4/8,361.0,2,0,10%,Junk Lands,Graveyard,BR Reanimator,60%,52.0,League,0,1,Experimental
+429,4/8,362.0,2,0,8%,Junk Lands,3-4c Control,4c Control,60%,42.0,League,0,1,Experimental
+430,4/8,363.0,2,0,5%,Junk Lands,Knight,Maverick,50%,25.0,League,1,1,Experimental
+431,4/8,364.0,2,0,5%,UG Lands,Knight,Maverick,40%,25.0,League,1,1,UG Lands
+432,4/8,365.0,0,1,8%,UG Lands,Storm,Echo Storm,50%,42.0,League,2,0,UG Lands
+433,4/8,366.0,0,1,10%,UG Lands,Graveyard,Hogaak,50%,52.0,League,2,0,UG Lands
+434,4/8,367.0,1,1,2%,UG Lands,Burn,Burn,50%,9.0,League,2,0,UG Lands
+435,4/8,368.0,1,1,8%,UG Lands,3-4c Control,4c Control,60%,42.0,League,2,0,UG Lands
+436,4/10,369.0,1,1,8%,Karn Lands,3-4c Control,4c Control,60%,42.0,League,2,0,Experimental
+437,4/10,370.0,2,0,5%,Karn Lands,White Creatures,W Eldrazi,50%,24.0,League,0,1,Experimental
+438,4/10,371.0,2,0,5%,Karn Lands,Chalice,Eldrazi Stompy,50%,27.0,League,0,1,Experimental
+439,4/10,372.0,1,1,5%,Karn Lands,Knight,4c Loam,60%,25.0,League,2,0,Experimental
+440,4/10,373.0,2,0,8%,Karn Lands,Storm,Oops,60%,42.0,League,1,1,Experimental
+441,4/10,374.0,0,1,10%,RUG Lands,Graveyard,Dredge,70%,52.0,League,2,0,RUG Lands
+442,4/10,375.0,0,0,4%,RUG Lands,UW,UWx Control,70%,19.0,League,1,0,RUG Lands
+443,4/10,376.0,1,1,2%,RUG Lands,Doomsday,Doomsday,70%,9.0,League,2,0,RUG Lands
+444,4/10,377.0,0,1,10%,RUG Lands,Graveyard,BR Reanimator,70%,52.0,League,2,0,RUG Lands
+445,4/10,378.0,2,0,13%,RUG Lands,Brew/Other,Dryad,60%,66.0,League,1,1,RUG Lands
+446,4/10,379.0,2,0,5%,UG Lands,Chalice,Moon Stompy,50%,27.0,League,1,1,UG Lands
+447,4/10,380.0,2,0,10%,UG Lands,Graveyard,Dredge,50%,52.0,League,1,1,UG Lands
+448,4/10,381.0,0,1,5%,UG Lands,Knight,Maverick,60%,25.0,League,2,0,UG Lands
+449,4/10,382.0,2,0,4%,UG Lands,Show & Tell,Omnishow,50%,21.0,League,1,1,UG Lands
+450,4/10,383.0,2,0,16%,UG Lands,Delver,RUG Delver,50%,83.0,League,1,1,UG Lands
+451,4/12,384.0,2,0,4%,BUG Lands,Show & Tell,Omnishow,40%,21.0,Tournament,1,1,BUG Lands
+452,4/12,385.0,2,0,5%,BUG Lands,Chalice,Eldrazi Stompy,30%,27.0,Tournament,1,1,BUG Lands
+453,4/12,386.0,2,0,3%,BUG Lands,Big Mana,Colorless Cloudpost,20%,17.0,Tournament,1,1,BUG Lands
+454,,387.0,0,1,6%,Jund Lands,Tribal,Elves,20%,32.0,,2,0,Jund Lands
+455,,388.0,2,0,6%,Jund Lands,Tribal,Elves,20%,32.0,,0,1,Jund Lands
+456,,389.0,2,0,6%,Jund Lands,Tribal,Elves,20%,32.0,,1,1,Jund Lands
+457,4/17,390.0,1,1,8%,Lurrus Jund,3-4c Control,Astrolabe Control,,42.0,Tournament,2,0,Jund Lands
+458,4/17,391.0,1,1,16%,Lurrus Jund,Delver,Grixis Delver,,83.0,League,2,0,Jund Lands
+459,4/17,392.0,2,0,1%,Lurrus Jund,Gyruda,Gyruda Mill,,4.0,League,1,1,Jund Lands
+460,4/17,393.0,0,1,16%,Lurrus Jund,Delver,Grixis Delver,,83.0,League,2,0,Jund Lands
+461,4/17,394.0,2,0,16%,Lurrus Jund,Delver,Grixis Delver,,83.0,League,0,1,Jund Lands
+462,4/17,395.0,2,0,13%,Lurrus Jund,Brew/Other,Bomberfox,,66.0,League,0,1,Jund Lands
+463,4/17,396.0,0,1,13%,Lurrus Jund,Brew/Other,4c Soulherder,,66.0,Tournament,2,0,Jund Lands
+464,4/20,397.0,0,1,8%,Lurrus Jund,3-4c Control,4c Control,,42.0,Tournament,2,0,Jund Lands
+465,4/21,398.0,2,0,16%,Lurrus Jund,Delver,Grixis Delver,,83.0,League,1,1,Jund Lands
+466,4/21,399.0,2,0,13%,Lurrus Jund,Brew/Other,DETH,50%,66.0,League,1,1,Jund Lands
+467,4/21,400.0,1,1,8%,Lurrus Jund,Storm,Spanish Inquisition,50%,42.0,League,2,0,Jund Lands
+468,4/21,401.0,0,1,13%,Lurrus Jund,Brew/Other,4c Soulherder,50%,66.0,League,2,0,Jund Lands
+469,4/21,402.0,1,1,10%,Lurrus Jund,Graveyard,BR Reanimator,60%,52.0,League,2,0,Jund Lands
+470,4/21,403.0,1,1,1%,Lurrus Jund,Painter,Painter,60%,6.0,League,2,0,Jund Lands
+471,4/21,404.0,1,1,2%,Lurrus Jund,Burn,Burn,70%,9.0,League,2,0,Jund Lands
+472,4/21,405.0,0,1,10%,Lurrus Jund,Graveyard,Hogaak,80%,52.0,League,2,0,Jund Lands
+473,4/21,406.0,1,1,1%,Lurrus Jund,Nic Fit,Nic Fit,80%,5.0,League,2,0,Jund Lands
+474,4/21,407.0,2,0,5%,Lurrus Jund,Chalice,Eldrazi Stompy,70%,27.0,League,1,1,Jund Lands
+475,4/23,408.0,1,1,13%,Lurrus Jund,Brew/Other,Fluctuator Combo,80%,66.0,League,2,0,Jund Lands
+476,4/23,409.0,0,1,6%,Lurrus Jund,Tribal,Goblins,90%,32.0,League,2,0,Jund Lands
+477,4/23,410.0,2,0,4%,Lurrus Jund,Dark Depths,Lurrus Depths,80%,23.0,League,0,1,Jund Lands
+478,4/23,411.0,1,1,16%,Lurrus Jund,Delver,UR Delver,80%,83.0,League,2,0,Jund Lands
+479,4/23,412.0,0,1,3%,Lurrus Jund,Big Mana,G Cloudpost,80%,17.0,League,2,0,Jund Lands
+480,4/24/2020,413.0,1,1,5%,Lurrus Jund,Knight,Maverick,80%,25.0,Tournament,2,0,Jund Lands
+481,4/24/2020,414.0,1,1,5%,UG Lands,White Creatures,Death & Taxes,80%,24.0,League,2,0,UG Lands
+482,4/24/2020,415.0,1,1,8%,UG Lands,3-4c Control,Stryfo Pile,80%,42.0,League,2,0,UG Lands
+483,4/24/2020,416.0,1,1,13%,UG Lands,Brew/Other,Esper Artifacts,80%,66.0,League,2,0,UG Lands
+484,4/24/2020,417.0,1,1,16%,UG Lands,Delver,Jeskai Delver,90%,83.0,League,2,0,UG Lands
+485,4/28/2020,418.0,2,0,4%,UG Lands,UW,Miracles,80%,19.0,League,1,1,UG Lands
+486,4/28/2020,419.0,2,0,8%,Lurrus Jund,3-4c Control,4c Control,70%,42.0,Tournament,1,1,Jund Lands
+487,4/28/2020,420.0,1,1,8%,Lurrus Jund,Storm,ANT,80%,42.0,League,2,0,Jund Lands
+488,4/28/2020,421.0,2,0,13%,Lurrus Jund,Brew/Other,Zirda Control,70%,66.0,League,1,1,Jund Lands
+489,4/28/2020,422.0,1,1,13%,Lurrus Jund,Brew/Other,Lurrus Control,70%,66.0,League,2,0,Jund Lands
+490,4/28/2020,423.0,0,1,16%,Lurrus Jund,Delver,BUG Delver,70%,83.0,League,2,0,Jund Lands
+491,4/28/2020,424.0,1,1,1%,Lurrus Jund,Gyruda,Gyruda Mill,70%,4.0,League,2,0,Jund Lands
+492,4/28/2020,425.0,0,1,16%,UG Lands,Delver,Jeskai Delver,70%,83.0,League,2,0,UG Lands
+493,4/28/2020,426.0,0,1,16%,UG Lands,Delver,Grixis Delver,70%,83.0,League,2,0,UG Lands
+494,4/28/2020,427.0,2,0,13%,UG Lands,Brew/Other,White Weenie,60%,66.0,League,0,1,UG Lands
+495,4/28/2020,428.0,2,0,4%,UG Lands,Show & Tell,Omnishow,60%,21.0,League,0,1,UG Lands
+496,4/28/2020,429.0,2,0,5%,UG Lands,Chalice,Moon Stompy,60%,27.0,League,0,1,UG Lands
+497,4/28/2020,430.0,0,1,6%,Lurrus Jund,Tribal,Elves,60%,32.0,League,2,0,Jund Lands
+498,4/28/2020,431.0,2,0,5%,Lurrus Jund,Knight,Maverick,60%,25.0,League,0,1,Jund Lands
+499,4/28/2020,432.0,0,1,13%,Lurrus Jund,Brew/Other,Lurrus Control,60%,66.0,League,2,0,Jund Lands
+500,4/28/2020,433.0,0,1,16%,Lurrus Jund,Delver,UB Shadow,60%,83.0,League,2,0,Jund Lands
+501,4/28/2020,434.0,0,1,10%,Lurrus Jund,Graveyard,Dredge,60%,52.0,League,2,0,Jund Lands
+502,4/29/2020,435.0,2,0,4%,Karn Intuition,Show & Tell,Omnishow,50%,21.0,League,0,1,
+503,4/29/2020,436.0,2,0,8%,Karn Intuition,Storm,ANT,40%,42.0,League,0,1,
+504,4/29/2020,437.0,2,0,16%,Karn Intuition,Delver,Jeskai Delver,40%,83.0,League,0,1,
+505,4/29/2020,438.0,1,1,4%,Karn Intuition,Show & Tell,Sneak & Show,50%,21.0,League,2,0,
+506,4/29/2020,439.0,0,1,10%,Karn Intuition,Graveyard,B Reanimate,60%,52.0,League,2,0,
+507,4/29/2020,440.0,2,0,8%,Lurrus Jund,3-4c Control,4c Control,50%,42.0,Tournament,0,1,Jund Lands
+508,4/29/2020,441.0,2,0,16%,Lurrus Jund,Delver,UR Delver,50%,83.0,League,1,1,Jund Lands
+509,4/29/2020,442.0,0,1,16%,Lurrus Jund,Delver,BUG Delver,50%,83.0,League,2,0,Jund Lands
+510,4/29/2020,443.0,2,0,4%,Lurrus Jund,UW,Miracles,40%,19.0,League,1,1,Jund Lands
+511,4/29/2020,444.0,2,0,13%,Lurrus Jund,Brew/Other,4c Midrange,30%,66.0,League,1,1,Jund Lands
+512,4/29/2020,445.0,1,1,13%,Lurrus Jund,Brew/Other,Blue Fox,40%,66.0,League,2,0,Jund Lands
+513,4/30/2020,446.0,2,0,8%,UG Lands,3-4c Control,Yorion 4c Control,40%,42.0,Tournament,0,1,UG Lands
+514,4/30/2020,447.0,1,1,16%,UG Lands,Delver,Jeskai Delver,50%,83.0,Tournament,2,0,UG Lands
+515,4/30/2020,448.0,0,1,4%,UG Lands,UW,Miracles,50%,19.0,Tournament,2,0,UG Lands
+516,4/30/2020,449.0,2,0,16%,UG Lands,Delver,Jeskai Delver,40%,83.0,Tournament,0,1,UG Lands
+517,4/30/2020,450.0,1,1,5%,UG Lands,Chalice,Eldrazi Stompy,50%,27.0,Tournament,2,0,UG Lands
+518,4/30/2020,451.0,2,0,13%,UG Lands,Brew/Other,Lurrus Oracle Combo,50%,66.0,Tournament,0,1,UG Lands
+519,4/30/2020,452.0,2,0,8%,UG Lands,Storm,ANT,40%,42.0,Tournament,0,1,UG Lands
+520,4/30/2020,453.0,2,0,4%,UG Lands,Dark Depths,Slow Depths,40%,23.0,Tournament,1,1,UG Lands
+521,5/2/2020,454.0,2,0,13%,Lurrus Jund,Brew/Other,Red Fox,40%,66.0,League,0,1,Jund Lands
+522,5/2/2020,455.0,2,0,4%,Lurrus Jund,Dark Depths,Lands,30%,23.0,League,0,1,Jund Lands
+523,5/2/2020,456.0,1,1,6%,Lurrus Jund,Tribal,Goblins,40%,32.0,League,2,0,Jund Lands
+524,5/2/2020,457.0,0,1,8%,Lurrus Jund,3-4c Control,Yorion 4c Control,40%,42.0,League,2,0,Jund Lands
+525,5/2/2020,458.0,2,0,8%,Lurrus Jund,3-4c Control,Yorion 4c Control,30%,42.0,League,1,1,Jund Lands
+526,5/6/2020,459.0,2,0,13%,UG Lands,Brew/Other,Bomberfox,30%,66.0,Tournament,1,1,UG Lands
+527,5/6/2020,460.0,2,0,5%,UG Lands,Knight,Maverick,20%,25.0,Tournament,0,1,UG Lands
+528,5/6/2020,461.0,1,1,10%,Lurrus Jund,Graveyard,BR Reanimator,30%,52.0,Practice,2,0,Jund Lands
+529,5/6/2020,462.0,2,0,8%,Lurrus Jund,3-4c Control,Yorion 4c Control,30%,42.0,Practice,1,1,Jund Lands
+530,5/12/2020,463.0,1,1,4%,Lurrus Jund,Dark Depths,Lands,40%,23.0,League,2,0,Jund Lands
+531,5/12/2020,464.0,2,0,16%,Lurrus Jund,Delver,RUG Delver,40%,83.0,League,0,1,Jund Lands
+532,5/12/2020,465.0,2,0,16%,Lurrus Jund,Delver,Grixis Delver,40%,83.0,League,0,1,Jund Lands
+533,5/12/2020,466.0,2,0,13%,Lurrus Jund,Brew/Other,Titanic Dryad,30%,66.0,League,1,1,Jund Lands
+534,5/12/2020,467.0,2,0,8%,Lurrus Jund,Storm,TES,20%,42.0,League,1,1,Jund Lands
+535,5/13/2020,468.0,1,1,16%,Lurrus Jund,Delver,RUG Delver,30%,83.0,League,2,0,Jund Lands
+536,5/13/2020,469.0,2,0,10%,Lurrus Jund,Graveyard,Hogaak,30%,52.0,League,1,1,Jund Lands
+537,5/13/2020,470.0,1,1,1%,Lurrus Jund,Gyruda,Gyruda Mill,40%,4.0,League,2,0,Jund Lands
+538,5/13/2020,471.0,2,0,10%,Lurrus Jund,Graveyard,Tin Fins,30%,52.0,League,1,1,Jund Lands
+539,5/13/2020,472.0,2,0,1%,Lurrus Jund,Gyruda,Gyruda Mill,30%,4.0,League,0,1,Jund Lands
+540,5/13/2020,473.0,2,0,4%,UG Lands,UW,Miracles,20%,19.0,League,0,1,UG Lands
+541,5/13/2020,474.0,2,0,5%,UG Lands,Chalice,Moon Stompy,20%,27.0,League,0,1,UG Lands
+542,5/13/2020,475.0,0,1,10%,UG Lands,Graveyard,BR Reanimator,30%,52.0,League,2,0,UG Lands
+543,5/13/2020,476.0,2,0,4%,UG Lands,Dark Depths,Turbo Depths,30%,23.0,League,1,1,UG Lands
+544,5/13/2020,477.0,1,1,10%,UG Lands,Graveyard,Dredge,40%,52.0,League,2,0,UG Lands
+545,5/13/2020,478.0,0,1,13%,UG Lands,Brew/Other,Lutri Pox,40%,66.0,League,2,0,UG Lands
+546,5/20,479.0,2,0,13%,Jund Lands,Brew/Other,UW Landstill,,66.0,League,1,1,Jund Lands
+547,5/20,480.0,1,1,4%,Jund Lands,Show & Tell,Sneak & Show,,21.0,League,2,0,Jund Lands
+548,5/20,481.0,0,1,6%,Jund Lands,Tribal,Merfolk,,32.0,League,2,0,Jund Lands
+549,5/20,482.0,0,1,5%,Jund Lands,Knight,Maverick,,25.0,League,2,0,Jund Lands
+550,5/20,483.0,0,1,10%,Jund Lands,Graveyard,BR Reanimator,,52.0,League,2,0,Jund Lands
+551,5/21,484.0,2,0,13%,Jund Lands,Brew/Other,Tezzerator,,66.0,League,1,1,Jund Lands
+552,5/21,485.0,2,0,6%,Jund Lands,Tribal,Elves,,32.0,League,0,1,Jund Lands
+553,5/21,486.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,,52.0,League,2,0,Jund Lands
+554,5/21,487.0,2,0,8%,Jund Lands,Storm,ANT,,42.0,League,1,1,Jund Lands
+555,5/21,488.0,1,1,16%,Jund Lands,Delver,Mono U Delver,60%,83.0,League,2,0,Jund Lands
+556,5/21,489.0,2,0,13%,Jund Lands,Brew/Other,Gyruda Depths,60%,66.0,League,1,1,Jund Lands
+557,5/21,490.0,2,0,8%,Jund Lands,Storm,TES,50%,42.0,League,1,1,Jund Lands
+558,5/21,491.0,0,1,1%,Jund Lands,Nic Fit,Nic Fit,50%,5.0,League,2,0,Jund Lands
+559,5/21,492.0,2,0,8%,Jund Lands,Storm,ANT,40%,42.0,League,0,1,Jund Lands
+560,5/21,493.0,0,1,8%,Jund Lands,Storm,TES,40%,42.0,League,2,0,Jund Lands
+561,5/21,494.0,0,1,4%,Jund Lands,Dark Depths,Turbo Depths,50%,23.0,League,2,0,Jund Lands
+562,5/21,495.0,0,1,1%,Jund Lands,Infect,Infect,60%,6.0,League,2,0,Jund Lands
+563,5/21,496.0,2,0,6%,Jund Lands,Tribal,Slivers,50%,32.0,League,1,1,Jund Lands
+564,5/21,497.0,2,0,5%,Jund Lands,White Creatures,Esper Vial,50%,24.0,League,0,1,Jund Lands
+565,5/21,498.0,0,1,1%,Jund Lands,Nic Fit,Nic Fit,50%,5.0,League,2,0,Jund Lands
+566,5/22,499.0,1,1,8%,Jund Lands,Storm,TES,60%,42.0,League,2,0,Jund Lands
+567,5/22,500.0,0,1,16%,Jund Lands,Delver,RUG Delver,70%,83.0,League,2,0,Jund Lands
+568,5/22,501.0,0,1,6%,Jund Lands,Tribal,Goblins,70%,32.0,League,2,0,Jund Lands
+569,5/22,502.0,2,0,10%,Jund Lands,Graveyard,Tin Fins,70%,52.0,League,0,1,Jund Lands
+570,5/22,503.0,1,1,10%,Jund Lands,Graveyard,BR Reanimator,70%,52.0,League,2,0,Jund Lands
+571,5/26/2020,504.0,0,1,13%,RG Lands,Brew/Other,UR Echo,70%,66.0,Practice,2,0,RG Lands
+572,5/26/2020,505.0,0,0,13%,RG Lands,Brew/Other,Ninjas,70%,66.0,Practice,1,0,RG Lands
+573,5/26/2020,506.0,2,0,16%,Jund Lands,Delver,Esper Delver,70%,83.0,Tournament,0,1,Jund Lands
+574,5/26/2020,507.0,0,1,2%,Jund Lands,Burn,Burn,80%,9.0,League,2,0,Jund Lands
+575,5/26/2020,508.0,2,0,6%,Jund Lands,Tribal,Elves,70%,32.0,League,0,1,Jund Lands
+576,5/26/2020,509.0,2,0,13%,Jund Lands,Brew/Other,Gyruda Combo,60%,66.0,League,1,1,Jund Lands
+577,5/26/2020,510.0,2,0,10%,Jund Lands,Graveyard,BR Reanimator,50%,52.0,League,1,1,Jund Lands
+578,5/26/2020,511.0,2,0,16%,Jund Lands,Delver,RUG Delver,40%,83.0,League,1,1,Jund Lands
+579,5/26/2020,512.0,0,1,6%,Jund Lands,Tribal,Slivers,50%,32.0,League,2,0,Jund Lands
+580,5/26/2020,513.0,1,1,3%,RG Lands,Big Mana,G Cloudpost,50%,17.0,Practice,2,0,RG Lands
+581,5/26/2020,514.0,1,1,6%,RG Lands,Tribal,Goblins,50%,32.0,Practice,2,0,RG Lands
+582,5/26/2020,515.0,0,1,13%,Jund Lands,Brew/Other,BUG Loam,50%,66.0,League,2,0,Jund Lands
+583,5/26/2020,516.0,0,1,13%,Jund Lands,Brew/Other,Bant Yorion Maverick,60%,66.0,League,2,0,Jund Lands
+584,5/27/2020,517.0,2,0,4%,Jund Lands,Show & Tell,Sneak & Show,50%,21.0,League,1,1,Jund Lands
+585,5/27/2020,518.0,2,0,13%,Jund Lands,Brew/Other,Karn Stompy,50%,66.0,League,0,1,Jund Lands
+586,5/27/2020,519.0,0,1,10%,Jund Lands,Graveyard,Dredge,60%,52.0,League,2,0,Jund Lands
+587,5/26/2020,520.0,0,1,16%,Jund Lands,Delver,RUG Delver,70%,83.0,Tournament,2,0,Jund Lands
+588,5/26/2020,521.0,0,1,16%,Jund Lands,Delver,RUG Delver,80%,83.0,Tournament,2,0,Jund Lands
+589,8/5/2020,1.0,0,1,8%,UG Lands,Graveyard,Hogaak,,8.0,,2,0,UG Lands
+590,8/6/2020,2.0,2,0,23%,UG Lands,Brew/Other,Cephalid Breakfast,,24.0,,0,1,UG Lands
+591,8/6/2020,3.0,0,1,24%,UG Lands,Delver,Rug Delver,,25.0,,2,0,UG Lands
+592,8/23/2020,55.0,0,1,24%,UG Lands,Delver,Rug Delver,60%,25.0,,2,0,UG Lands
+593,8/7/2020,4.0,1,1,23%,UG Lands,Brew/Other,Nic Fit,,24.0,,2,0,UG Lands
+594,8/7/2020,5.0,0,1,6%,UG Lands,White Creatures,Death & Taxes,,6.0,,2,0,UG Lands
+595,8/9/2020,6.0,2,0,23%,UG Lands,Brew/Other,Infect,,24.0,,0,1,UG Lands
+596,8/9/2020,7.0,0,1,23%,UG Lands,Brew/Other,Titan Stompy,,24.0,,2,0,UG Lands
+597,8/9/2020,8.0,2,0,24%,UG Lands,Delver,UR Delver,,25.0,,0,1,UG Lands
+598,8/10/2020,9.0,0,1,23%,UG Lands,Brew/Other,UW Myth Realized,,24.0,,2,0,UG Lands
+599,8/10/2020,10.0,0,1,23%,UG Lands,Brew/Other,UB Ninjas,70%,24.0,,2,0,UG Lands
+600,8/13/2020,28.0,0,1,23%,UG Lands,Brew/Other,UB Ninjas,70%,24.0,,2,0,UG Lands
+601,8/11/2020,11.0,0,1,7%,UG Lands,Tribal,Elves,70%,7.0,,2,0,UG Lands
+602,8/11/2020,12.0,0,1,3%,UG Lands,Dark Depths,Lands,80%,3.0,,2,0,UG Lands
+603,8/11/2020,13.0,1,1,7%,UG Lands,Tribal,Elves,80%,7.0,,2,0,UG Lands
+604,8/11/2020,14.0,0,1,24%,UG Lands,Delver,UR Delver,80%,25.0,,2,0,UG Lands
+605,8/11/2020,15.0,1,1,7%,UG Lands,Tribal,Goblins,80%,7.0,,2,0,UG Lands
+606,8/12/2020,16.0,0,1,6%,UG Lands,White Creatures,Esper Vial,90%,6.0,,2,0,UG Lands
+607,8/12/2020,17.0,1,1,3%,UG Lands,Storm,Belcher,90%,3.0,,2,0,UG Lands
+608,8/12/2020,19.0,1,1,3%,UG Lands,Storm,Belcher,90%,3.0,,2,0,UG Lands
+609,8/12/2020,18.0,2,0,24%,UG Lands,Delver,UB Shadow,90%,25.0,,1,1,UG Lands
+610,8/12/2020,20.0,2,0,23%,UG Lands,Brew/Other,4c Loam,80%,24.0,,0,1,UG Lands
+611,8/23/2020,60.0,2,0,23%,UG Lands,Brew/Other,4c Loam,40%,24.0,,0,1,UG Lands
+612,8/12/2020,21.0,1,1,8%,UG Lands,Graveyard,Hogaak,80%,8.0,,2,0,UG Lands
+613,8/12/2020,22.0,0,1,4%,UG Lands,Chalice,Moon Stompy,80%,4.0,,2,0,UG Lands
+614,8/12/2020,23.0,1,1,8%,UG Lands,Graveyard,Tin Fins,80%,8.0,,2,0,UG Lands
+615,8/12/2020,24.0,0,1,12%,UG Lands,3-4c Control,RUG Control,80%,12.0,,2,0,UG Lands
+616,8/12/2020,25.0,1,1,8%,UG Lands,Graveyard,BR Reanimator,80%,8.0,,2,0,UG Lands
+617,8/13/2020,26.0,2,0,24%,UG Lands,Delver,UB Shadow,70%,25.0,,0,1,UG Lands
+618,8/13/2020,27.0,2,0,8%,UG Lands,Graveyard,Dredge,60%,8.0,,0,1,UG Lands
+619,8/13/2020,29.0,1,1,24%,UG Lands,Delver,RUG Delver,70%,25.0,,2,0,UG Lands
+620,8/13/2020,30.0,1,1,23%,UG Lands,Brew/Other,Bant NO,80%,24.0,,2,0,UG Lands
+621,8/13/2020,31.0,2,0,6%,UG Lands,White Creatures,Esper Vial,70%,6.0,,0,1,UG Lands
+622,8/13/2020,32.0,2,0,3%,UG Lands,Doomsday,Doomsday,60%,3.0,,1,1,UG Lands
+623,8/14/2020,33.0,1,1,24%,UG Lands,Delver,UR Delver,60%,25.0,,2,0,UG Lands
+624,8/14/2020,34.0,2,0,3%,UG Lands,Dark Depths,Turbo Depths,50%,3.0,,1,1,UG Lands
+625,8/14/2020,35.0,2,0,7%,UG Lands,Tribal,Elves,40%,7.0,,1,1,UG Lands
+626,8/15/2020,36.0,2,0,8%,Jund Lands,Graveyard,BR Reanimator,40%,8.0,,1,1,Jund Lands
+627,8/15/2020,37.0,1,1,6%,Jund Lands,White Creatures,Death & Taxes,50%,6.0,,2,0,Jund Lands
+628,8/15/2020,38.0,1,1,23%,Jund Lands,Brew/Other,UB Ninjas,50%,24.0,,2,0,Jund Lands
+629,8/15/2020,39.0,1,1,7%,Jund Lands,Tribal,Elves,50%,7.0,,2,0,Jund Lands
+630,8/16/2020,40.0,0,1,6%,Jund Lands,White Creatures,Esper Vial,50%,6.0,,2,0,Jund Lands
+631,8/16/2020,41.0,0,1,12%,Jund Lands,3-4c Control,Astrolabe Control,60%,12.0,,2,0,Jund Lands
+632,8/16/2020,42.0,1,1,12%,Jund Lands,3-4c Control,Astrolabe Control,70%,12.0,,2,0,Jund Lands
+633,8/16/2020,43.0,2,0,24%,Jund Lands,Delver,Rug Delver,60%,25.0,,0,1,Jund Lands
+634,8/16/2020,44.0,2,0,1%,Jund Lands,Combo-Control,Aluren,60%,1.0,,0,1,Jund Lands
+635,8/16/2020,45.0,2,0,23%,Jund Lands,Brew/Other,Bug Yorion,60%,24.0,,0,1,Jund Lands
+636,8/16/2020,46.0,2,0,3%,Jund Lands,Doomsday,Doomsday,60%,3.0,,0,1,Jund Lands
+637,8/16/2020,47.0,0,1,23%,Jund Lands,Brew/Other,4c Loam,60%,24.0,,2,0,Jund Lands
+638,8/16/2020,48.0,1,1,6%,Jund Lands,Show & Tell,Eureka & Tell,60%,6.0,,2,0,Jund Lands
+639,8/16/2020,49.0,0,1,24%,Jund Lands,Delver,Rug Delver,60%,25.0,,2,0,Jund Lands
+640,8/16/2020,50.0,2,0,1%,Jund Lands,UW,UWx Control,50%,1.0,,0,1,Jund Lands
+641,8/16/2020,51.0,0,1,23%,Jund Lands,Brew/Other,Pox,50%,24.0,,2,0,Jund Lands
+642,8/16/2020,52.0,2,0,23%,Jund Lands,Brew/Other,UW Helm,40%,24.0,,0,1,Jund Lands
+643,8/16/2020,53.0,0,1,6%,Jund Lands,White Creatures,W Eldrazi,50%,6.0,,2,0,Jund Lands
+644,8/22/2020,54.0,2,0,6%,UG Lands,Show & Tell,Sneak & Show,50%,6.0,,0,1,UG Lands
+645,8/23/2020,56.0,2,0,24%,UG Lands,Delver,Rug Delver,60%,25.0,,1,1,UG Lands
+646,8/23/2020,59.0,2,0,24%,UG Lands,Delver,Rug Delver,40%,25.0,,1,1,UG Lands
+647,8/23/2020,57.0,1,1,24%,UG Lands,Delver,Rug Delver,60%,25.0,,2,0,UG Lands
+648,8/23/2020,58.0,2,0,8%,UG Lands,Graveyard,BR Reanimator,50%,8.0,,1,1,UG Lands
+649,8/23/2020,61.0,1,1,23%,UG Lands,Brew/Other,Snow Memes,40%,24.0,,2,0,UG Lands
+650,8/24/2020,62.0,2,0,12%,UG Lands,3-4c Control,Astrolabe Control,40%,12.0,,1,1,UG Lands
+651,8/26/2020,63.0,0,1,12%,UG Lands,3-4c Control,Bug Control,40%,12.0,,2,0,UG Lands
+652,8/26/2020,64.0,2,0,24%,UG Lands,Delver,UR Delver,40%,25.0,,1,1,UG Lands
+653,8/26/2020,65.0,0,1,6%,UG Lands,Show & Tell,Eureka & Tell,40%,6.0,,2,0,UG Lands
+654,8/26/2020,66.0,1,1,24%,UG Lands,Delver,Grixis Delver,50%,25.0,,2,0,UG Lands
+655,8/27/2020,67.0,1,1,4%,UG Lands,Chalice,Moon Stompy,50%,4.0,,2,0,UG Lands
+656,8/27/2020,68.0,2,0,23%,UG Lands,Brew/Other,UW Replenish,50%,24.0,,1,1,UG Lands
+657,8/27/2020,69.0,1,1,6%,UG Lands,Show & Tell,Eureka & Tell,60%,6.0,,2,0,UG Lands
+658,8/27/2020,70.0,1,1,24%,UG Lands,Delver,Rug Delver,70%,25.0,,2,0,UG Lands
+659,8/29/2020,78.0,1,1,24%,UG Lands,Delver,Rug Delver,70%,25.0,,2,0,UG Lands
+660,8/27/2020,71.0,1,1,7%,UG Lands,Tribal,Goblins,70%,7.0,,2,0,UG Lands
+661,8/27/2020,72.0,2,0,24%,UG Lands,Delver,Rug Delver,70%,25.0,,0,1,UG Lands
+662,8/27/2020,73.0,1,1,1%,UG Lands,Painter,Painter,70%,1.0,,2,0,UG Lands
+663,8/27/2020,74.0,1,1,3%,UG Lands,Storm,TES,80%,3.0,,2,0,UG Lands
+664,8/27/2020,75.0,0,1,4%,UG Lands,Chalice,Eldrazi Stompy,80%,4.0,,2,0,UG Lands
+665,8/27/2020,76.0,2,0,24%,UG Lands,Delver,Rug Delver,70%,25.0,,1,1,UG Lands
+666,8/29/2020,77.0,2,0,6%,UG Lands,Show & Tell,Sneak & Show,60%,6.0,,1,1,UG Lands
+667,8/29/2020,79.0,1,1,12%,UG Lands,3-4c Control,Astrolabe Control,70%,12.0,,2,0,UG Lands
+668,8/29/2020,81.0,1,1,12%,UG Lands,3-4c Control,Astrolabe Control,70%,12.0,,2,0,UG Lands
+669,8/29/2020,82.0,1,1,12%,UG Lands,3-4c Control,Astrolabe Control,80%,12.0,,2,0,UG Lands
+670,8/29/2020,80.0,0,1,7%,UG Lands,Tribal,Merfolk,70%,7.0,,2,0,UG Lands
+671,8/29/2020,83.0,2,0,6%,UG Lands,Show & Tell,Eureka & Tell,70%,6.0,,1,1,UG Lands
+672,8/29/2020,84.0,2,0,12%,UG Lands,3-4c Control,Astrolabe Control,60%,12.0,,1,1,UG Lands
+673,8/30/2020,85.0,2,0,23%,UG Lands,Brew/Other,Infect,50%,24.0,,0,1,UG Lands
+674,8/30/2020,86.0,2,0,23%,UG Lands,Brew/Other,Infect,50%,24.0,,0,1,UG Lands
+675,8/30/2020,87.0,0,1,8%,UG Lands,Graveyard,BR Reanimator,60%,8.0,,2,0,UG Lands
+676,8/30/2020,88.0,0,1,24%,UG Lands,Delver,UR Delver,60%,25.0,,2,0,UG Lands
+677,8/30/2020,90.0,0,1,24%,UG Lands,Delver,UR Delver,50%,25.0,,2,0,UG Lands
+678,8/30/2020,89.0,2,0,3%,UG Lands,Doomsday,Doomsday,50%,3.0,,0,1,UG Lands
+679,8/30/2020,91.0,2,0,4%,UG Lands,Chalice,Urza,40%,4.0,,0,1,UG Lands
+680,8/30/2020,92.0,2,0,23%,UG Lands,Brew/Other,4c Loam,30%,24.0,,0,1,UG Lands
+681,8/30/2020,93.0,0,1,12%,UG Lands,3-4c Control,RUG Control,40%,12.0,,2,0,UG Lands
+682,8/30/2020,94.0,0,1,23%,UG Lands,Brew/Other,Infect,50%,24.0,,2,0,UG Lands
+683,8/31,95.0,0,1,23%,UG Lands,Brew/Other,Ninjas,60%,24.0,,2,0,UG Lands
+684,8/31,96.0,1,1,23%,UG Lands,Brew/Other,Spirits,70%,24.0,,2,0,UG Lands
+685,8/31,97.0,1,1,3%,UG Lands,Dark Depths,Turbo Depths,70%,3.0,,2,0,UG Lands
+686,8/31,98.0,0,1,12%,UG Lands,3-4c Control,Astrolabe Control,70%,12.0,,2,0,UG Lands
+687,8/31,99.0,1,1,24%,UG Lands,Delver,UR Delver,80%,25.0,,2,0,UG Lands
+688,9/3,100.0,0,1,12%,UG Lands,3-4c Control,BUG Control,80%,12.0,,2,0,UG Lands
+689,9/3,101.0,1,1,24%,UG Lands,Delver,Rug Delver,90%,25.0,,2,0,UG Lands
+690,9/3,104.0,1,1,24%,UG Lands,Delver,Rug Delver,80%,25.0,,2,0,UG Lands
+691,9/3,102.0,2,0,23%,UG Lands,Brew/Other,Ninjas,90%,24.0,,0,1,UG Lands
+692,9/3,103.0,2,0,24%,UG Lands,Delver,UB Shadow,80%,25.0,,1,1,UG Lands
+693,,,1,1,,Jund Lands,Storm,ant,,,,2,0,Jund Lands
+694,,,1,1,,Jund Lands,3-4c Control,snowko,,,,2,0,Jund Lands
+695,,,0,1,,Jund Lands,Graveyard,dredge,,,,2,0,Jund Lands
+696,,,0,1,,Jund Lands,Brew/Other,enchantress,,,,2,0,Jund Lands
+697,,,2,0,,Jund Lands,Dark Depths,slow depths,,,,0,1,Jund Lands
+698,,,0,1,,Jund Lands,White Creatures,esper vial,,,,2,0,Jund Lands
+699,,,1,1,,Jund Lands,Big Mana,cloudpost,,,,2,0,Jund Lands
+700,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,0,1,Jund Lands
+701,,,2,0,,Jund Lands,Painter,painter,,,,0,1,Jund Lands
+702,,,2,0,,Jund Lands,3-4c Control,snowko,,,,1,1,Jund Lands
+703,,,1,1,,Jund Lands,Brew/Other,jund,,,,2,0,Jund Lands
+704,,,0,1,,Jund Lands,Storm,charbelcher,,,,2,0,Jund Lands
+705,,,0,1,,Jund Lands,Delver,rug delver,,,,2,0,Jund Lands
+706,,,2,0,,Jund Lands,Delver,bug delver,,,,1,1,Jund Lands
+707,,,2,0,,Jund Lands,Brew/Other,enchantress,,,,0,1,Jund Lands
+708,,,0,1,,Jund Lands,Nic Fit,nic fit,,,,2,0,Jund Lands
+709,,,0,1,,Jund Lands,White Creatures,death and taxes,,,,2,0,Jund Lands
+710,,,1,1,,Jund Lands,Delver,rug delver,,,,2,0,Jund Lands
+711,,,1,1,,Jund Lands,Gyruda,gyruda,,,,2,0,Jund Lands
+712,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+713,,,1,1,,Jund Lands,Show & Tell,show and tell,,,,2,0,Jund Lands
+714,,,2,0,,Jund Lands,Pox,pox,,,,1,1,Jund Lands
+715,,,1,1,,Jund Lands,Storm,ant,,,,2,0,Jund Lands
+716,,,0,1,,BUG Lands,Gyruda,gyruda,,,,2,0,BUG Lands
+717,,,1,1,,BUG Lands,Delver,rug delver,,,,2,0,BUG Lands
+718,,,1,1,,BUG Lands,Show & Tell,sneak and show,,,,2,0,BUG Lands
+719,,,2,0,,BUG Lands,Show & Tell,ug show and tell,,,,0,1,BUG Lands
+720,,,2,0,,BUG Lands,Brew/Other,lutri,,,,0,1,BUG Lands
+721,,,0,1,,RG Lands,Gyruda,gyruda,,,,2,0,RG Lands
+722,,,2,0,,RG Lands,Show & Tell,show and tell,,,,0,1,RG Lands
+723,,,0,1,,RG Lands,Dark Depths,bug lands,,,,2,0,RG Lands
+724,,,0,1,,RG Lands,UW,standstill,,,,2,0,RG Lands
+725,,,2,0,,RG Lands,3-4c Control,shardless bug,,,,0,1,RG Lands
+726,,,0,1,,RG Lands,Chalice,eldrazi,,,,2,0,RG Lands
+727,,,2,0,,RG Lands,White Creatures,esper vial,,,,0,1,RG Lands
+728,,,1,1,,RG Lands,Dark Depths,bug lands,,,,2,0,RG Lands
+729,,,2,0,,RG Lands,Combo-Control,aluren,,,,0,1,RG Lands
+730,,,0,1,,RG Lands,Pox,pox,,,,2,0,RG Lands
+731,,,0,1,,Jund Lands,Tribal,slivers,,,,2,0,Jund Lands
+732,,,0,1,,Jund Lands,Tribal,slivers,,,,2,0,Jund Lands
+733,,,2,0,,Jund Lands,UW,miracles,,,,0,1,Jund Lands
+734,,,1,1,,Jund Lands,Gyruda,gyruda,,,,2,0,Jund Lands
+735,,,1,1,,Jund Lands,Show & Tell,show and tell,,,,2,0,Jund Lands
+736,,,1,1,,Jund Lands,Brew/Other,spanish inquisition,,,,2,0,Jund Lands
+737,,,2,0,,Jund Lands,Combo-Control,food chain,,,,0,1,Jund Lands
+738,,,1,1,,Jund Lands,3-4c Control,snowko,,,,2,0,Jund Lands
+739,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+740,,,1,1,,Jund Lands,Storm,tes,,,,2,0,Jund Lands
+741,,,2,0,,UG Lands,3-4c Control,snowko,,,,1,1,UG Lands
+742,,,1,1,,UG Lands,Graveyard,dredge,,,,2,0,UG Lands
+743,,,2,0,,UG Lands,Graveyard,rb reanimator,,,,1,1,UG Lands
+744,,,1,1,,UG Lands,Show & Tell,show and tell,,,,2,0,UG Lands
+745,,,2,0,,UG Lands,Brew/Other,enchantress,,,,0,1,UG Lands
+746,,,1,1,,UG Lands,Chalice,urza,,,,2,0,UG Lands
+747,,,0,1,,RG Lands,Graveyard,dredge,,,,2,0,RG Lands
+748,,,2,0,,RG Lands,Tribal,goblins,,,,1,1,RG Lands
+749,,,2,0,,RG Lands,Graveyard,dredge,,,,1,1,RG Lands
+750,,,0,1,,RG Lands,3-4c Control,snowko,,,,2,0,RG Lands
+751,,,2,0,,RG Lands,Storm,ant,,,,0,1,RG Lands
+752,,,0,1,,RG Lands,Chalice,eldrazi,,,,2,0,RG Lands
+753,,,2,0,,RG Lands,Delver,ur delver,,,,1,1,RG Lands
+754,,,0,1,,RG Lands,Delver,rug delver,,,,2,0,RG Lands
+755,,,2,0,,RG Lands,Brew/Other,parigdiem shift,,,,0,1,RG Lands
+756,,,2,0,,Jund Lands,Knight,zoo,,,,1,1,Jund Lands
+757,,,2,0,,Jund Lands,Chalice,white eldrazi,,,,0,1,Jund Lands
+758,,,2,0,,Jund Lands,Chalice,urza,,,,0,1,Jund Lands
+759,,,2,0,,Jund Lands,Chalice,urza,,,,1,1,Jund Lands
+760,,,2,0,,Jund Lands,Brew/Other,living end,,,,0,1,Jund Lands
+761,,,2,0,,Jund Lands,Brew/Other,living end,,,,0,1,Jund Lands
+762,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,1,1,Jund Lands
+763,,,2,0,,Jund Lands,Brew/Other,bw helm,,,,0,1,Jund Lands
+764,,,2,0,,Jund Lands,Knight,4c loam,,,,1,1,Jund Lands
+765,,,2,0,,Jund Lands,Dark Depths,bug lands,,,,1,1,Jund Lands
+766,,,1,1,,Jund Lands,Nic Fit,nic fit,,,,2,0,Jund Lands
+767,,,1,1,,Jund Lands,Nic Fit,nic fit,,,,2,0,Jund Lands
+768,,,2,0,,Jund Lands,Storm,tes,,,,0,1,Jund Lands
+769,,,0,1,,Jund Lands,Brew/Other,unk,,,,2,0,Jund Lands
+770,,,0,1,,Jund Lands,Pox,pox,,,,2,0,Jund Lands
+771,,,2,0,,Jund Lands,Graveyard,dredge,,,,0,1,Jund Lands
+772,,,1,1,,Jund Lands,Knight,zoo,,,,2,0,Jund Lands
+773,,,2,0,,Jund Lands,Knight,zoo,,,,0,1,Jund Lands
+774,,,1,1,,Jund Lands,White Creatures,esper vial,,,,2,0,Jund Lands
+775,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,1,1,Jund Lands
+776,,,2,0,,Jund Lands,3-4c Control,snowko,,,,0,1,Jund Lands
+777,,,1,1,,Jund Lands,UW,miracles,,,,2,0,Jund Lands
+778,,,0,1,,Jund Lands,White Creatures,esper vial,,,,2,0,Jund Lands
+779,,,2,0,,Jund Lands,Chalice,urza,,,,0,1,Jund Lands
+780,,,1,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+781,,,1,1,,Jund Lands,UW,miracles,,,,2,0,Jund Lands
+782,,,0,1,,Jund Lands,White Creatures,death and taxes,,,,2,0,Jund Lands
+783,,,0,1,,Jund Lands,UW,miracles,,,,2,0,Jund Lands
+784,,,2,0,,Jund Lands,White Creatures,esper vial,,,,1,1,Jund Lands
+785,,,2,0,,Jund Lands,Knight,maverick,,,,0,1,Jund Lands
+786,,,1,1,,Jund Lands,Brew/Other,living end,,,,2,0,Jund Lands
+787,,,2,0,,Jund Lands,Graveyard,hogaak,,,,1,1,Jund Lands
+788,,,1,1,,Jund Lands,3-4c Control,dragon,,,,2,0,Jund Lands
+789,,,2,0,,Jund Lands,Chalice,moon stompy,,,,1,1,Jund Lands
+790,,,1,1,,Jund Lands,Combo-Control,aluren,,,,2,0,Jund Lands
+791,,,1,1,,Jund Lands,Tribal,goblins,,,,2,0,Jund Lands
+792,,,2,0,,Jund Lands,Chalice,red eldrazi,,,,1,1,Jund Lands
+793,,,2,0,,Jund Lands,Tribal,goblins,,,,0,1,Jund Lands
+794,,,2,0,,Jund Lands,Nic Fit,nic fit,,,,1,1,Jund Lands
+795,,,0,1,,Jund Lands,Combo-Control,food chain,,,,2,0,Jund Lands
+796,,,2,0,,Jund Lands,Doomsday,doomsday,,,,1,1,Jund Lands
+797,,,0,1,,Jund Lands,Graveyard,hogaak,,,,2,0,Jund Lands
+798,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,1,1,Jund Lands
+799,,,2,0,,Jund Lands,Knight,zoo,,,,0,1,Jund Lands
+800,,,2,0,,Jund Lands,Storm,ant,,,,0,1,Jund Lands
+801,,,2,0,,Jund Lands,Chalice,moon stompy,,,,0,1,Jund Lands
+802,,,0,1,,Jund Lands,Storm,ant,,,,2,0,Jund Lands
+803,,,2,0,,Jund Lands,Burn,burn,,,,1,1,Jund Lands
+804,,,2,0,,Jund Lands,Doomsday,doomsday,,,,1,1,Jund Lands
+805,,,0,1,,Reclaimer Lands,Tribal,goblins,,,,2,0,RG Lands
+806,,,0,1,,Reclaimer Lands,3-4c Control,grixis control,,,,2,0,RG Lands
+807,,,2,0,,Reclaimer Lands,Knight,4c loam,,,,0,1,RG Lands
+808,,,0,1,,Reclaimer Lands,Delver,rug delver,,,,2,0,RG Lands
+809,,,2,0,,Reclaimer Lands,3-4c Control,snowko,,,,0,1,RG Lands
+810,,,2,0,,Reclaimer Lands,Chalice,titan dryad,,,,1,1,RG Lands
+811,,,2,0,,Reclaimer Lands,Tribal,goblins,,,,1,1,RG Lands
+812,,,2,0,,Reclaimer Lands,Storm,tes,,,,0,1,RG Lands
+813,,,1,1,,Reclaimer Lands,Storm,tes,,,,2,0,RG Lands
+814,,,0,1,,Jund Lands,Graveyard,dredge,,,,2,0,Jund Lands
+815,,,1,1,,Jund Lands,White Creatures,death and taxes,,,,2,0,Jund Lands
+816,,,1,1,,Jund Lands,Delver,death's shadow,,,,2,0,Jund Lands
+817,,,0,1,,Jund Lands,UW,miracles,,,,2,0,Jund Lands
+818,,,0,1,,Jund Lands,Tribal,goblins,,,,2,0,Jund Lands
+819,,,1,1,,Jund Lands,Storm,charbelcher,,,,2,0,Jund Lands
+820,,,0,1,,Jund Lands,Infect,infect,,,,2,0,Jund Lands
+821,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,0,1,Jund Lands
+822,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,0,1,Jund Lands
+823,,,2,0,,Jund Lands,Big Mana,cloudpost,,,,1,1,Jund Lands
+824,,,0,1,,Jund Lands,Pox,pox,,,,2,0,Jund Lands
+825,,,2,0,,Jund Lands,Delver,grixis delver,,,,0,1,Jund Lands
+826,,,1,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+827,,,2,0,,Jund Lands,Combo-Control,food chain,,,,0,1,Jund Lands
+828,,,2,0,,Jund Lands,Tribal,goblins,,,,1,1,Jund Lands
+829,,,2,0,,RG Lands,Delver,ur delver,,,,0,1,RG Lands
+830,,,2,0,,RG Lands,Delver,bug delver,,,,0,1,RG Lands
+831,,,1,1,,RG Lands,Tribal,slivers,,,,2,0,RG Lands
+832,,,2,0,,RG Lands,Big Mana,cloudpost,,,,1,1,RG Lands
+833,,,1,1,,RG Lands,Delver,bug delver,,,,2,0,RG Lands
+834,,,2,0,,Jund Lands,Combo-Control,food chain,,,,1,1,Jund Lands
+835,,,1,1,,Jund Lands,3-4c Control,snowko,,,,2,0,Jund Lands
+836,,,1,1,,Jund Lands,3-4c Control,dragon,,,,2,0,Jund Lands
+837,,,2,0,,Jund Lands,Graveyard,hogaak,,,,0,1,Jund Lands
+838,,,0,1,,Jund Lands,White Creatures,death and taxes,,,,2,0,Jund Lands
+839,,,2,0,,Jund Lands,Tribal,goblins,,,,0,1,Jund Lands
+840,,,2,0,,Jund Lands,UW,standstill,,,,0,1,Jund Lands
+841,,,0,1,,Jund Lands,Brew/Other,unk,,,,2,0,Jund Lands
+842,,,2,0,,Jund Lands,Show & Tell,show and tell,,,,0,1,Jund Lands
+843,,,1,1,,Jund Lands,Graveyard,rb reanimator,,,,2,0,Jund Lands
+844,,,2,0,,Jund Lands,3-4c Control,snowko,,,,1,1,Jund Lands
+845,,,1,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+846,,,1,1,,Jund Lands,Knight,zoo,,,,2,0,Jund Lands
+847,,,0,1,,Jund Lands,Knight,4c loam,,,,2,0,Jund Lands
+848,,,1,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+849,,,2,0,,Jund Lands,White Creatures,death and taxes,,,,1,1,Jund Lands
+850,,,1,1,,Jund Lands,UW,standstill,,,,2,0,Jund Lands
+851,,,0,1,,Jund Lands,Graveyard,dredge,,,,2,0,Jund Lands
+852,,,2,0,,Jund Lands,White Creatures,death and taxes,,,,0,1,Jund Lands
+853,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+854,,,0,1,,Jund Lands,Dark Depths,turbo depths,,,,2,0,Jund Lands
+855,,,1,1,,Jund Lands,Storm,ant,,,,2,0,Jund Lands
+856,,,0,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+857,,,2,0,,Jund Lands,Doomsday,doomsday,,,,1,1,Jund Lands
+858,,,2,0,,Jund Lands,White Creatures,esper vial,,,,0,1,Jund Lands
+859,,,1,1,,Jund Lands,UW,miracles,,,,2,0,Jund Lands
+860,,,2,0,,Jund Lands,Knight,maverick,,,,0,1,Jund Lands
+861,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+862,,,2,0,,Jund Lands,Tribal,elves,,,,1,1,Jund Lands
+863,,,2,0,,Jund Lands,UW,miracles,,,,1,1,Jund Lands
+864,,,2,0,,Jund Lands,Brew/Other,lands,,,,0,1,Jund Lands
+865,,,0,1,,Jund Lands,Knight,maverick,,,,2,0,Jund Lands
+866,,,2,0,,Jund Lands,White Creatures,esper vial,,,,0,1,Jund Lands
+867,,,0,1,,Jund Lands,White Creatures,death and taxes,,,,2,0,Jund Lands
+868,,,1,1,,Jund Lands,Delver,rug delver,,,,2,0,Jund Lands
+869,,,1,1,,RUG Lands,UW,standstill,,,,2,0,RUG Lands
+870,,,0,1,,RUG Lands,Delver,rug delver,,,,2,0,RUG Lands
+871,,,2,0,,RUG Lands,Dark Depths,turbo depths,,,,1,1,RUG Lands
+872,,,2,0,,RUG Lands,Knight,maverick,,,,0,1,RUG Lands
+873,,,2,0,,RUG Lands,Tribal,humans,,,,1,1,RUG Lands
+874,,,1,1,,Jund Lands,Dark Depths,turbo depths,,,,2,0,Jund Lands
+875,,,1,1,,Jund Lands,Chalice,urza,,,,2,0,Jund Lands
+876,,,0,1,,Jund Lands,Tribal,elves,,,,2,0,Jund Lands
+877,,,2,0,,Jund Lands,Chalice,mystic forge,,,,1,1,Jund Lands
+878,,,0,1,,Jund Lands,3-4c Control,snowko,,,,2,0,Jund Lands
+879,,,0,1,,Jund Lands,Delver,rug delver,,,,2,0,Jund Lands
+880,,,1,1,,Jund Lands,Knight,maverick,,,,2,0,Jund Lands
+881,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+882,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+883,,,2,0,,Jund Lands,Chalice,titan dryad,,,,0,1,Jund Lands
+884,,,0,1,,Jund Lands,Pox,pox,,,,2,0,Jund Lands
+885,,,0,1,,Jund Lands,Tribal,humans,,,,2,0,Jund Lands
+886,,,2,0,,Jund Lands,Graveyard,rb reanimator,,,,1,1,Jund Lands
+887,,,0,1,,RUG Lands,White Creatures,esper vial,,,,2,0,RUG Lands
+888,,,2,0,,RUG Lands,Delver,grixis delver,,,,1,1,RUG Lands
+889,,,1,1,,RUG Lands,Storm,ant,,,,2,0,RUG Lands
+890,,,0,1,,RUG Lands,Brew/Other,enchantress,,,,2,0,RUG Lands
+891,,,0,1,,RUG Lands,Storm,tes,,,,2,0,RUG Lands
+892,,,0,1,,RUG Lands,Brew/Other,nicfit,,,,2,0,RUG Lands
+893,,,2,0,,RUG Lands,Delver,ur delver,,,,0,1,RUG Lands
+894,,,2,0,,RUG Lands,Tribal,elves,,,,1,1,RUG Lands
+895,,,1,1,,RUG Lands,UW,miracles,,,,2,0,RUG Lands
+896,,,2,0,,RUG Lands,Delver,rug delver,,,,0,1,RUG Lands
+897,,,0,1,,RUG Lands,Graveyard,dredge,,,,2,0,RUG Lands
+898,,,1,1,,RUG Lands,Doomsday,doomsday,,,,2,0,RUG Lands
+899,,,2,0,,RUG Lands,Brew/Other,ur pheonix,,,,0,1,RUG Lands
+900,,,1,1,,RUG Lands,Storm,echo storm,,,,2,0,RUG Lands
+901,,,2,0,,RUG Lands,Delver,rug delver,,,,0,1,RUG Lands
+902,,,1,1,,RUG Lands,Painter,painter,,,,2,0,RUG Lands
+903,,,2,0,,RUG Lands,Delver,rug delver,,,,0,1,RUG Lands
+904,,,2,0,,RUG Lands,Brew/Other,ninjas,,,,0,1,RUG Lands
+905,,,1,1,,Reanimator Lands,Graveyard,rb reanimator,,,,2,0,Experimental
+906,,,0,1,,Reanimator Lands,Graveyard,rb reanimator,,,,2,0,Experimental
+907,,,0,1,,Reanimator Lands,Storm,tes,,,,2,0,Experimental
+908,,,2,0,,Reanimator Lands,White Creatures,esper vial,,,,0,1,Experimental
+909,,,1,1,,Reanimator Lands,Chalice,moon stompy,,,,2,0,Experimental
+910,,,1,1,,Reanimator Lands,Storm,charbelcher,,,,2,0,Experimental
+911,,,2,0,,Reanimator Lands,Infect,infect,,,,0,1,Experimental
+912,,,0,1,,Reanimator Lands,Tribal,goblins,,,,2,0,Experimental
+913,,,2,0,,Reanimator Lands,Delver,ur delver,,,,0,1,Experimental
+914,,,2,0,,Reanimator Lands,Delver,rug delver,,,,0,1,Experimental
+915,,,2,0,,Jund Lands,3-4c Control,snowko,,,,0,1,Jund Lands
+916,,,1,1,,Jund Lands,Painter,painter,,,,2,0,Jund Lands
+917,,,1,1,,Jund Lands,Storm,tes,,,,2,0,Jund Lands
+918,,,0,1,,Jund Lands,Delver,ur delver,,,,2,0,Jund Lands
+919,,,0,1,,Jund Lands,Delver,ur delver,,,,2,0,Jund Lands
+920,,,1,1,,Jund Lands,Chalice,moon stompy,,,,2,0,Jund Lands
+921,,,2,0,,Jund Lands,Delver,rug delver,,,,0,1,Jund Lands
+922,,,0,1,,Jund Lands,Combo-Control,Rip Helm,,,,2,0,Jund Lands
+923,,,1,1,,Jund Lands,Chalice,white eldrazi,,,,2,0,Jund Lands
+924,,,2,0,,Jund Lands,Delver,death's shadow,,,,0,1,Jund Lands
+925,,,1,1,,Jund Lands,3-4c Control,snowko,,,,2,0,Jund Lands
+926,,,0,1,,Jund Lands,Graveyard,hogaak,,,,2,0,Jund Lands
+927,,,0,1,,Jund Lands,Brew/Other,ninjas,,,,2,0,Jund Lands
+928,,,2,0,,Jund Lands,Dark Depths,gw depths,,,,1,1,Jund Lands
+929,,,2,0,,Jund Lands,White Creatures,esper vial,,,,1,1,Jund Lands
+930,,,2,0,,Jund Lands,Dark Depths,bug lands,,,,0,1,Jund Lands
+931,,,1,1,,Jund Lands,Delver,death's shadow,,,,2,0,Jund Lands
+932,,,1,1,,Jund Lands,White Creatures,esper vial,,,,2,0,Jund Lands
+933,,,2,0,,Jund Lands,Chalice,eldrazi,,,,0,1,Jund Lands
+934,,,0,1,,Jund Lands,UW,standstill,,,,2,0,Jund Lands
+935,,,2,0,,Landshark,Chalice,titan dryad,,,,1,1,Experimental
+936,,,2,0,,Landshark,Delver,bug delver,,,,1,1,Experimental
+937,,,2,0,,Landshark,Nic Fit,nic fit,,,,1,1,Experimental
+938,,,0,1,,Landshark,3-4c Control,snowko,,,,2,0,Experimental
+939,,,2,0,,Landshark,Brew/Other,ub control,,,,1,1,Experimental
+940,,,2,0,,Landshark,Delver,rug delver,,,,1,1,Experimental
+941,,,1,1,,Landshark,Show & Tell,show and tell,,,,2,0,Experimental
+942,,,2,0,,Landshark,Dark Depths,rg lands,,,,0,1,Experimental
+943,,,1,1,,RG Lands,Painter,painter,,,,2,0,RG Lands
+944,,,2,0,,RG Lands,Delver,ur delver,,,,1,1,RG Lands
+945,,,2,0,,RG Lands,Combo-Control,aluren,,,,1,1,RG Lands
+946,,,1,1,,RG Lands,Brew/Other,curse stompy,,,,2,0,RG Lands
+947,,,1,1,,RG Lands,Delver,rug delver,,,,2,0,RG Lands
